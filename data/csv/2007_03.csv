@@ -1,0 +1,5 @@
+"tweet_id","in_reply_to_status_id","in_reply_to_user_id","retweeted_status_id","retweeted_status_user_id","timestamp","source","text","expanded_urls"
+"14160521","","","","","2007-03-28 08:26:33 +0000","web","Wondering why twitter is so slow recently allthough it runs on a Joyent Accelerator."
+"9754391","","","","","2007-03-19 18:32:18 +0000","web","Wondering about how terribly Cellity (www.cellity.de) calculates the cheapest route when using vodafone Minute packages."
+"9625441","","","","","2007-03-19 12:00:55 +0000","<a href=""http://twitterrific.com"" rel=""nofollow"">Twitterrific</a>","Digging twittervision: http://twittermap.com/twittervision"
+"6684831","","","","","2007-03-11 17:39:51 +0000","web","has no time for twitter"
