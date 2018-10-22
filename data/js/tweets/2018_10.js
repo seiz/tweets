@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 21 12:07:57 +0000 2018",
+		"id": 1053981210375045100,
+		"id_str": "1053981210375045121",
+		"full_text": "• Herbsttag https://t.co/cGLrFG92ip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053981169551843300,
+					"id_str": "1053981169551843334",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DqB-ShsWoAYZTR6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqB-ShsWoAYZTR6.jpg",
+					"url": "https://t.co/cGLrFG92ip",
+					"display_url": "pic.twitter.com/cGLrFG92ip",
+					"expanded_url": "https://twitter.com/peterglaser/status/1053981210375045121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 578,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053981169551843300,
+					"id_str": "1053981169551843334",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/DqB-ShsWoAYZTR6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqB-ShsWoAYZTR6.jpg",
+					"url": "https://t.co/cGLrFG92ip",
+					"display_url": "pic.twitter.com/cGLrFG92ip",
+					"expanded_url": "https://twitter.com/peterglaser/status/1053981210375045121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 578,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 67278209,
+			"id_str": "67278209",
+			"name": "Peter Glaser",
+			"screen_name": "peterglaser",
+			"location": "Berlin",
+			"description": "Ich schreibe.",
+			"url": "https://t.co/QhiMTnVSqE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QhiMTnVSqE",
+							"expanded_url": "https://www.nzz.ch/meinung/kolumnen/glaserei/",
+							"display_url": "nzz.ch/meinung/kolumn…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11657,
+			"friends_count": 2529,
+			"listed_count": 561,
+			"created_at": "Thu Aug 20 10:06:30 +0000 2009",
+			"favourites_count": 7905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48901,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "023755",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/372004147/peterglaser_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/372004147/peterglaser_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/67278209/1397056064",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "AAA011",
+			"profile_sidebar_fill_color": "AAEEFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "• Herbsttag https://t.co/cGLrFG92ip"
+	},
+	{
+		"created_at": "Sun Oct 21 08:50:13 +0000 2018",
+		"id": 1053931451291484200,
+		"id_str": "1053931451291484161",
+		"full_text": "@ChristophKappes Vor der Apple Watch war es bei mir lange keine nach der Tissot Sotsass (https://t.co/5KEpvhuviK). Heute wäre es wohl eine Nomos.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChristophKappes",
+					"name": "Christoph Kappes",
+					"id": 19961453,
+					"id_str": "19961453",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5KEpvhuviK",
+					"expanded_url": "https://uhrforum.de/attachments/sottsass-gif.184942/",
+					"display_url": "uhrforum.de/attachments/so…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1053917964083310600,
+		"in_reply_to_status_id_str": "1053917964083310592",
+		"in_reply_to_user_id": 19961453,
+		"in_reply_to_user_id_str": "19961453",
+		"in_reply_to_screen_name": "ChristophKappes",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 140,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@ChristophKappes Vor der Apple Watch war es bei mir lange keine nach der Tissot Sotsass (https://t.co/5KEpvhuviK). Heute wäre es wohl eine Nomos."
+	},
+	{
+		"created_at": "Sun Oct 21 08:29:04 +0000 2018",
+		"id": 1053926127952109600,
+		"id_str": "1053926127952109569",
+		"full_text": "@thebigwebshow @zeldman Here we go. For me it seems the hum is on Jeffrey’s channel. \n\nEP180 at 1:35\n\nEP178 hum from start to about 1:35 where it’s tuned out and later returns\n\nEP177 1:16 \n…",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thebigwebshow",
+					"name": "The Big Web Show",
+					"id": 132710849,
+					"id_str": "132710849",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "zeldman",
+					"name": "zeldman",
+					"id": 61133,
+					"id_str": "61133",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1052568163592884200,
+		"in_reply_to_status_id_str": "1052568163592884224",
+		"in_reply_to_user_id": 617963,
+		"in_reply_to_user_id_str": "617963",
+		"in_reply_to_screen_name": "seiz",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 140,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thebigwebshow @zeldman Here we go. For me it seems the hum is on Jeffrey’s channel. \n\nEP180 at 1:35\n\nEP178 hum from start to about 1:35 where it’s tuned out and later returns\n\nEP177 1:16 \n…"
+	},
+	{
 		"created_at": "Fri Oct 19 14:28:38 +0000 2018",
 		"id": 1053291839174967300,
 		"id_str": "1053291839174967296",
