@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 12 20:35:24 +0000 2018",
+		"id": 1062081447908048900,
+		"id_str": "1062081447908048896",
+		"full_text": "Großartiges Foto (das linke). „Er will doch nur spielen“ https://t.co/ax8uXwVMlW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ax8uXwVMlW",
+					"expanded_url": "https://twitter.com/Philip_Meinhold/status/1061915157729816578",
+					"display_url": "twitter.com/Philip_Meinhol…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061915157729816600,
+		"quoted_status_id_str": "1061915157729816578",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ax8uXwVMlW",
+			"expanded": "https://twitter.com/Philip_Meinhold/status/1061915157729816578",
+			"display": "twitter.com/Philip_Meinhol…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 12 09:34:37 +0000 2018",
+			"id": 1061915157729816600,
+			"id_str": "1061915157729816578",
+			"full_text": "neues meme: \"jealous boyfriend\". https://t.co/wxQeGsj3H5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1061914450977058800,
+						"id_str": "1061914450977058816",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DrytkSBXcAAL32g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrytkSBXcAAL32g.jpg",
+						"url": "https://t.co/wxQeGsj3H5",
+						"display_url": "pic.twitter.com/wxQeGsj3H5",
+						"expanded_url": "https://twitter.com/Philip_Meinhold/status/1061915157729816578/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 282,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1061914450977058800,
+						"id_str": "1061914450977058816",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DrytkSBXcAAL32g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrytkSBXcAAL32g.jpg",
+						"url": "https://t.co/wxQeGsj3H5",
+						"display_url": "pic.twitter.com/wxQeGsj3H5",
+						"expanded_url": "https://twitter.com/Philip_Meinhold/status/1061915157729816578/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 282,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1061914726857408500,
+						"id_str": "1061914726857408514",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/Dryt0VwXgAI5SvP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dryt0VwXgAI5SvP.jpg",
+						"url": "https://t.co/wxQeGsj3H5",
+						"display_url": "pic.twitter.com/wxQeGsj3H5",
+						"expanded_url": "https://twitter.com/Philip_Meinhold/status/1061915157729816578/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 299,
+								"h": 168,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 299,
+								"h": 168,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 299,
+								"h": 168,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 600911023,
+				"id_str": "600911023",
+				"name": "Philip Meinhold",
+				"screen_name": "Philip_Meinhold",
+				"location": "Berlin (West)",
+				"description": "Journalist und Schriftsteller, hier als Privatdozent.",
+				"url": "http://t.co/ARutzuU20a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ARutzuU20a",
+								"expanded_url": "http://herrmeinhold.antville.org",
+								"display_url": "herrmeinhold.antville.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2301,
+				"friends_count": 317,
+				"listed_count": 69,
+				"created_at": "Wed Jun 06 11:52:58 +0000 2012",
+				"favourites_count": 10010,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11582,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590499723611602945/xGUbSWmV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590499723611602945/xGUbSWmV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/600911023/1426716817",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1004,
+			"favorite_count": 4454,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Großartiges Foto (das linke). „Er will doch nur spielen“ https://t.co/ax8uXwVMlW"
+	},
+	{
+		"created_at": "Mon Nov 12 17:06:46 +0000 2018",
+		"id": 1062028944826921000,
+		"id_str": "1062028944826920960",
+		"full_text": "@wunderbayer Sehr schön! Sieht aber irgendwie manipuliert aus. Ist das das imageprocessing vom iPhoneX?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wunderbayer",
+					"name": "Erik",
+					"id": 14510685,
+					"id_str": "14510685",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1062018111610740700,
+		"in_reply_to_status_id_str": "1062018111610740741",
+		"in_reply_to_user_id": 14510685,
+		"in_reply_to_user_id_str": "14510685",
+		"in_reply_to_screen_name": "wunderbayer",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@wunderbayer Sehr schön! Sieht aber irgendwie manipuliert aus. Ist das das imageprocessing vom iPhoneX?"
+	},
+	{
 		"created_at": "Sat Nov 10 15:50:16 +0000 2018",
 		"id": 1061284918037307400,
 		"id_str": "1061284918037307392",
