@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 15 16:00:29 +0000 2018",
+		"id": 1063099427609608200,
+		"id_str": "1063099427609608193",
+		"full_text": "Canadian street gang opens fire on the cops, and they have no choice but to fire back in self defence. WARNING: graphic content. https://t.co/YAQExVRcok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063098752641261600,
+					"id_str": "1063098752641261568",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063098752641261568/pu/img/MRp2TxmDQ7Xj72e7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063098752641261568/pu/img/MRp2TxmDQ7Xj72e7.jpg",
+					"url": "https://t.co/YAQExVRcok",
+					"display_url": "pic.twitter.com/YAQExVRcok",
+					"expanded_url": "https://twitter.com/BlakeNorthcott/status/1063099427609608193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 224,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063098752641261600,
+					"id_str": "1063098752641261568",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063098752641261568/pu/img/MRp2TxmDQ7Xj72e7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063098752641261568/pu/img/MRp2TxmDQ7Xj72e7.jpg",
+					"url": "https://t.co/YAQExVRcok",
+					"display_url": "pic.twitter.com/YAQExVRcok",
+					"expanded_url": "https://twitter.com/BlakeNorthcott/status/1063099427609608193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 224,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							14,
+							25
+						],
+						"duration_millis": 15063,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063098752641261568/pu/pl/u4z3A3WX01ZPzck8.m3u8?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063098752641261568/pu/vid/224x400/zGql5SfC6pd9MghG.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 182238594,
+			"id_str": "182238594",
+			"name": "Blake Northcott™⭐",
+			"screen_name": "BlakeNorthcott",
+			"location": "Greater Toronto Area 🇨🇦",
+			"description": "Writer of THE NORTH VALLEY GRIMOIRE, Kickstarter's #1 Fiction Novel of 2018. FATHOM & EXECUTIVE ASSISTANT IRIS for @aspencomics, VAMPIRELLA for @dynamitecomics.",
+			"url": "https://t.co/qbigyzsJIh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbigyzsJIh",
+							"expanded_url": "https://bit.ly/2PTWCWH",
+							"display_url": "bit.ly/2PTWCWH",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42069,
+			"friends_count": 30484,
+			"listed_count": 1165,
+			"created_at": "Tue Aug 24 04:18:51 +0000 2010",
+			"favourites_count": 27640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25224,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058074229520850944/f37SGgdJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058074229520850944/f37SGgdJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/182238594/1541099672",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "1D1D1E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11091,
+		"favorite_count": 30916,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Canadian street gang opens fire on the cops, and they have no choice but to fire back in self defence. WARNING: graphic content. https://t.co/YAQExVRcok"
+	},
+	{
 		"created_at": "Thu Nov 15 05:55:36 +0000 2018",
 		"id": 1062947204611129300,
 		"id_str": "1062947204611129344",
