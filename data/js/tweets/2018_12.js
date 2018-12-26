@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 24 00:55:15 +0000 2018",
+		"id": 1077004743350771700,
+		"id_str": "1077004743350771712",
+		"full_text": "Soulver for iOS is free for Christmas! Tell your friends. What a nice treat 🎅.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237541348,
+			"id_str": "237541348",
+			"name": "Soulver",
+			"screen_name": "soulver",
+			"location": "Sydney, Australia",
+			"description": "A clever notepad calculator app for Mac & iOS.",
+			"url": "http://t.co/u95L6xYiIi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/u95L6xYiIi",
+							"expanded_url": "http://www.acqualia.com/soulver",
+							"display_url": "acqualia.com/soulver",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1141,
+			"friends_count": 0,
+			"listed_count": 177,
+			"created_at": "Thu Jan 13 02:21:33 +0000 2011",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000573242631/5c2d04f9618e78d34b2bdfeccec422c1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000573242631/5c2d04f9618e78d34b2bdfeccec422c1_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Soulver for iOS is free for Christmas! Tell your friends. What a nice treat 🎅."
+	},
+	{
 		"created_at": "Mon Dec 24 18:45:32 +0000 2018",
 		"id": 1077274090287910900,
 		"id_str": "1077274090287910916",
