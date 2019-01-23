@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 06:43:25 +0000 2019",
+		"id": 1087963998346268700,
+		"id_str": "1087963998346268672",
+		"full_text": "Wie man sich den Ast absägt, auf dem man sitzt. Methode A: https://t.co/A41ye5ipWZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A41ye5ipWZ",
+					"expanded_url": "https://twitter.com/smatthes/status/1087802367117062145",
+					"display_url": "twitter.com/smatthes/statu…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087802367117062100,
+		"quoted_status_id_str": "1087802367117062145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A41ye5ipWZ",
+			"expanded": "https://twitter.com/smatthes/status/1087802367117062145",
+			"display": "twitter.com/smatthes/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 20:01:09 +0000 2019",
+			"id": 1087802367117062100,
+			"id_str": "1087802367117062145",
+			"full_text": "Es war nur eine Frage der Zeit, bis Google diese Karte zieht. Sollte es so weit kommen, dürfte das vor allem rein werbefinanzierten News-Seiten einen mitunter zweistelligen Umsatzeinbruch bescheren. https://t.co/xxyNGO7FDM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xxyNGO7FDM",
+						"expanded_url": "http://www.niemanlab.org/2019/01/google-is-threatening-to-kill-google-news-in-europe-if-the-eu-goes-ahead-with-its-snippet-tax/",
+						"display_url": "niemanlab.org/2019/01/google…",
+						"indices": [
+							199,
+							222
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14394691,
+				"id_str": "14394691",
+				"name": "Sebastian Matthes",
+				"screen_name": "smatthes",
+				"location": "Düsseldorf, Deutschland",
+				"description": "Stellv. des Chefredakteurs & Head of Digital @Handelsblatt • davor: Chefredakteur @HuffPostDE • Blog: https://t.co/PZxdmKdQ7u",
+				"url": "https://t.co/jSVT6sRvfF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jSVT6sRvfF",
+								"expanded_url": "http://www.handelsblatt.com",
+								"display_url": "handelsblatt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PZxdmKdQ7u",
+								"expanded_url": "http://www.ungedruckt.net",
+								"display_url": "ungedruckt.net",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11694,
+				"friends_count": 1714,
+				"listed_count": 616,
+				"created_at": "Tue Apr 15 08:57:35 +0000 2008",
+				"favourites_count": 3996,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12387,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984113238618058752/qNO7LC66_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984113238618058752/qNO7LC66_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14394691/1492087928",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b7d3c12268abd20e",
+				"url": "https://api.twitter.com/1.1/geo/id/b7d3c12268abd20e.json",
+				"place_type": "city",
+				"name": "Düsseldorf",
+				"full_name": "Düsseldorf, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								6.688728,
+								51.124357
+							],
+							[
+								6.939888,
+								51.124357
+							],
+							[
+								6.939888,
+								51.352537
+							],
+							[
+								6.688728,
+								51.352537
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wie man sich den Ast absägt, auf dem man sitzt. Methode A: https://t.co/A41ye5ipWZ"
+	},
+	{
 		"created_at": "Mon Jan 21 19:04:33 +0000 2019",
 		"id": 1087425736217149400,
 		"id_str": "1087425736217149440",
