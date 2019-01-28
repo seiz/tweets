@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 06:49:28 +0000 2019",
+		"id": 1089777459464163300,
+		"id_str": "1089777459464163330",
+		"full_text": "🤦‍♂️ https://t.co/vlxQOx3XZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vlxQOx3XZa",
+					"expanded_url": "https://twitter.com/reichenstein/status/1089644570554568705",
+					"display_url": "twitter.com/reichenstein/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 191,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089644570554568700,
+		"quoted_status_id_str": "1089644570554568705",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vlxQOx3XZa",
+			"expanded": "https://twitter.com/reichenstein/status/1089644570554568705",
+			"display": "twitter.com/reichenstein/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 27 22:01:24 +0000 2019",
+			"id": 1089644570554568700,
+			"id_str": "1089644570554568705",
+			"full_text": "If you look like that at 70, just keep going to the gym every day until your joints tell you to stop. If you look like that at 45, spending Millions on injecting yourself with your own juices every day, thinking you’ll see the next century—you’re funny. https://t.co/HVAY243rzN https://t.co/DL960Dd7R0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HVAY243rzN",
+						"expanded_url": "https://www.menshealth.com/health/a25902826/bulletproof-dave-asprey-biohacking/",
+						"display_url": "menshealth.com/health/a259028…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1089644564485472300,
+						"id_str": "1089644564485472258",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx8x9U2XgAIU8wp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx8x9U2XgAIU8wp.jpg",
+						"url": "https://t.co/DL960Dd7R0",
+						"display_url": "pic.twitter.com/DL960Dd7R0",
+						"expanded_url": "https://twitter.com/reichenstein/status/1089644570554568705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 709,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1089644564485472300,
+						"id_str": "1089644564485472258",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx8x9U2XgAIU8wp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx8x9U2XgAIU8wp.jpg",
+						"url": "https://t.co/DL960Dd7R0",
+						"display_url": "pic.twitter.com/DL960Dd7R0",
+						"expanded_url": "https://twitter.com/reichenstein/status/1089644570554568705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 709,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17435847,
+				"id_str": "17435847",
+				"name": "Oliver Reichenstein",
+				"screen_name": "reichenstein",
+				"location": "Zurich, Tokyo, Berlin",
+				"description": "Personal account of the founder of @iA and @iAWriter. I am slowly connecting the dots between philosophy and design.",
+				"url": "https://t.co/06exW7X1cW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/06exW7X1cW",
+								"expanded_url": "http://iA.net",
+								"display_url": "iA.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7154,
+				"friends_count": 325,
+				"listed_count": 359,
+				"created_at": "Mon Nov 17 05:56:25 +0000 2008",
+				"favourites_count": 4388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5808,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E3E3E3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940634914969571330/SkmCEAyQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940634914969571330/SkmCEAyQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17435847/1513099557",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤦‍♂️ https://t.co/vlxQOx3XZa"
+	},
+	{
 		"created_at": "Fri Jan 25 06:26:18 +0000 2019",
 		"id": 1088684467315712000,
 		"id_str": "1088684467315712000",
