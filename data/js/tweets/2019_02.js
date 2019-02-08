@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 06:38:28 +0000 2019",
+		"id": 1093760961390043100,
+		"id_str": "1093760961390043136",
+		"full_text": "Hey @Apple, you are about to loose all the trust. Please just pay the guy ang get this fixed ASAP. Enough is enough. https://t.co/7MMGTOiiZf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7MMGTOiiZf",
+					"expanded_url": "https://twitter.com/daringfireball/status/1093640558541787142",
+					"display_url": "twitter.com/daringfireball…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093640558541787100,
+		"quoted_status_id_str": "1093640558541787142",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7MMGTOiiZf",
+			"expanded": "https://twitter.com/daringfireball/status/1093640558541787142",
+			"display": "twitter.com/daringfireball…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 07 22:40:02 +0000 2019",
+			"id": 1093640558541787100,
+			"id_str": "1093640558541787142",
+			"full_text": "Purported Exploit Exposes Keychain Passwords on MacOS: https://t.co/HEZkG9x5fh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HEZkG9x5fh",
+						"expanded_url": "https://daringfireball.net/linked/2019/02/07/henze-keychain-exploit",
+						"display_url": "daringfireball.net/linked/2019/02…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://daringfireball.net/\" rel=\"nofollow\">DF Tootbot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10760422,
+				"id_str": "10760422",
+				"name": "Daring Fireball",
+				"screen_name": "daringfireball",
+				"location": "",
+				"description": "Entries from Daring Fireball. Sort of like RSS but via Twitter.",
+				"url": "https://t.co/iipNKeMOWB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iipNKeMOWB",
+								"expanded_url": "https://daringfireball.net/",
+								"display_url": "daringfireball.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92237,
+				"friends_count": 0,
+				"listed_count": 6626,
+				"created_at": "Sat Dec 01 05:55:06 +0000 2007",
+				"favourites_count": 314,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18901,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4A525A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1068658191041536001/q1bHVBDc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068658191041536001/q1bHVBDc_normal.jpg",
+				"profile_link_color": "323232",
+				"profile_sidebar_border_color": "4A525A",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @Apple, you are about to loose all the trust. Please just pay the guy ang get this fixed ASAP. Enough is enough. https://t.co/7MMGTOiiZf"
+	},
+	{
 		"created_at": "Tue Feb 05 07:04:10 +0000 2019",
 		"id": 1092680264919195600,
 		"id_str": "1092680264919195648",
