@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 16:21:32 +0000 2019",
+		"id": 1096806795815931900,
+		"id_str": "1096806795815931905",
+		"full_text": "😢 https://t.co/qLzrEFZOnM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qLzrEFZOnM",
+					"expanded_url": "https://twitter.com/nytimesworld/status/1096726437690859521",
+					"display_url": "twitter.com/nytimesworld/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096726437690859500,
+		"quoted_status_id_str": "1096726437690859521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qLzrEFZOnM",
+			"expanded": "https://twitter.com/nytimesworld/status/1096726437690859521",
+			"display": "twitter.com/nytimesworld/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 16 11:02:13 +0000 2019",
+			"id": 1096726437690859500,
+			"id_str": "1096726437690859521",
+			"full_text": "Bruno Ganz, the melancholy Swiss film actor who played an angel longing for the visceral joys of mortality in “Wings of Desire” and a defeated Hitler with trembling hands facing his own mortality in “Downfall,” died at his home in Zurich https://t.co/4ZIHiXQbic",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4ZIHiXQbic",
+						"expanded_url": "https://nyti.ms/2SBjjE1",
+						"display_url": "nyti.ms/2SBjjE1",
+						"indices": [
+							238,
+							261
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1877831,
+				"id_str": "1877831",
+				"name": "New York Times World",
+				"screen_name": "nytimesworld",
+				"location": "New York, London, Hong Kong",
+				"description": "World news from The New York Times. Follow our journalists here: https://t.co/dZjTQkxoyM",
+				"url": "https://t.co/JSlkdhLzCD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JSlkdhLzCD",
+								"expanded_url": "http://nytimes.com/world",
+								"display_url": "nytimes.com/world",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dZjTQkxoyM",
+								"expanded_url": "http://bit.ly/1pHrbd6",
+								"display_url": "bit.ly/1pHrbd6",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1905204,
+				"friends_count": 902,
+				"listed_count": 19793,
+				"created_at": "Thu Mar 22 13:59:49 +0000 2007",
+				"favourites_count": 3477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 230886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966009454079684609/6rPptWsI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966009454079684609/6rPptWsI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1877831/1542723215",
+				"profile_link_color": "004276",
+				"profile_sidebar_border_color": "333333",
+				"profile_sidebar_fill_color": "E7EFF8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 976,
+			"favorite_count": 1718,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😢 https://t.co/qLzrEFZOnM"
+	},
+	{
 		"created_at": "Fri Feb 15 20:36:46 +0000 2019",
 		"id": 1096508641266536400,
 		"id_str": "1096508641266536448",
