@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 13:58:53 +0000 2019",
+		"id": 1099669999508250600,
+		"id_str": "1099669999508250624",
+		"full_text": "Man muss sie einfach lieben, die Italiener. https://t.co/kBPlQg1ChK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kBPlQg1ChK",
+					"expanded_url": "https://twitter.com/OxfordDiplomat/status/1099661665379979264",
+					"display_url": "twitter.com/OxfordDiplomat…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099661665379979300,
+		"quoted_status_id_str": "1099661665379979264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kBPlQg1ChK",
+			"expanded": "https://twitter.com/OxfordDiplomat/status/1099661665379979264",
+			"display": "twitter.com/OxfordDiplomat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 24 13:25:46 +0000 2019",
+			"id": 1099661665379979300,
+			"id_str": "1099661665379979264",
+			"full_text": "It seems Ireland’s first real test was surviving this phenomenal police escort through the streets of Rome. Challenged accepted Italy, see you in Dublin. \n\n#SixNations #ITAvIRE 🇮🇪 🇮🇹\n\n https://t.co/W3KinqUGDd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SixNations",
+						"indices": [
+							156,
+							167
+						]
+					},
+					{
+						"text": "ITAvIRE",
+						"indices": [
+							168,
+							176
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1099619270386991100,
+						"id_str": "1099619270386991109",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099619270386991109/pu/img/MBLzm24FtD2UQ-wT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099619270386991109/pu/img/MBLzm24FtD2UQ-wT.jpg",
+						"url": "https://t.co/W3KinqUGDd",
+						"display_url": "pic.twitter.com/W3KinqUGDd",
+						"expanded_url": "https://twitter.com/RorysStories/status/1099619412380930048/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1099619412380930000,
+						"source_status_id_str": "1099619412380930048",
+						"source_user_id": 2226956539,
+						"source_user_id_str": "2226956539"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1099619270386991100,
+						"id_str": "1099619270386991109",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099619270386991109/pu/img/MBLzm24FtD2UQ-wT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099619270386991109/pu/img/MBLzm24FtD2UQ-wT.jpg",
+						"url": "https://t.co/W3KinqUGDd",
+						"display_url": "pic.twitter.com/W3KinqUGDd",
+						"expanded_url": "https://twitter.com/RorysStories/status/1099619412380930048/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 385,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 848,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1099619412380930000,
+						"source_status_id_str": "1099619412380930048",
+						"source_user_id": 2226956539,
+						"source_user_id_str": "2226956539",
+						"video_info": {
+							"aspect_ratio": [
+								30,
+								53
+							],
+							"duration_millis": 73220,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1099619270386991109/pu/vid/480x848/T9rAMIRQ9xOFeoDx.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1099619270386991109/pu/vid/360x636/6uNzxkW0p9I7sB_a.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1099619270386991109/pu/pl/9C5TAre-Vtz54r2z.m3u8?tag=6"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1099619270386991109/pu/vid/320x564/hWggfhPiXu-cEujh.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2226956539,
+								"id_str": "2226956539",
+								"name": "Rory's Stories",
+								"screen_name": "RorysStories",
+								"location": "",
+								"description": "Everything is possible if you wish hard enough",
+								"url": "https://t.co/0DWLHFNTfH",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/0DWLHFNTfH",
+												"expanded_url": "https://www.facebook.com/RorysStoriesOfficial/",
+												"display_url": "facebook.com/RorysStoriesOf…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 50565,
+								"friends_count": 396,
+								"listed_count": 44,
+								"created_at": "Mon Dec 02 16:46:03 +0000 2013",
+								"favourites_count": 3773,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 7598,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/525553900913688576/RMFGwJFI_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/525553900913688576/RMFGwJFI_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2226956539/1445244837",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1962626484,
+				"id_str": "1962626484",
+				"name": "Dr. Jennifer Cassidy",
+				"screen_name": "OxfordDiplomat",
+				"location": "Dublin/Oxford",
+				"description": "Irish. Politics Lecturer @UniofOxford. Former Diplomat. PhD Digital Diplomacy (Oxon). Books Gender and Diplomacy, @UN Consultant, TED Speaker.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36952,
+				"friends_count": 8915,
+				"listed_count": 242,
+				"created_at": "Tue Oct 15 13:28:16 +0000 2013",
+				"favourites_count": 19507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12302,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0B0C0D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011671473256370176/BtQwbghP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011671473256370176/BtQwbghP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1962626484/1536524043",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 147,
+			"favorite_count": 502,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Man muss sie einfach lieben, die Italiener. https://t.co/kBPlQg1ChK"
+	},
+	{
 		"created_at": "Wed Feb 20 17:14:53 +0000 2019",
 		"id": 1098269773354410000,
 		"id_str": "1098269773354409986",
