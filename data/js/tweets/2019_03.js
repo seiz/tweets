@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 23 16:53:51 +0000 2019",
+		"id": 1109498504605548500,
+		"id_str": "1109498504605548544",
+		"full_text": "Schlechte Karten für @janboehm https://t.co/93JzZZbE6a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janboehm",
+					"name": "Jan Böhmermann 🤨🇪🇺",
+					"id": 19072286,
+					"id_str": "19072286",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/93JzZZbE6a",
+					"expanded_url": "https://twitter.com/scott_kerr/status/1109474948580560896",
+					"display_url": "twitter.com/scott_kerr/sta…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 139,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109474948580560900,
+		"quoted_status_id_str": "1109474948580560896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/93JzZZbE6a",
+			"expanded": "https://twitter.com/scott_kerr/status/1109474948580560896",
+			"display": "twitter.com/scott_kerr/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 23 15:20:15 +0000 2019",
+			"id": 1109474948580560900,
+			"id_str": "1109474948580560896",
+			"full_text": "I'm going to totally ignore this. https://t.co/kO3ibzPl5q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1109471659046654000,
+						"id_str": "1109471659046653955",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D2WimH3W0AMpCNE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2WimH3W0AMpCNE.jpg",
+						"url": "https://t.co/kO3ibzPl5q",
+						"display_url": "pic.twitter.com/kO3ibzPl5q",
+						"expanded_url": "https://twitter.com/scott_kerr/status/1109474948580560896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 625,
+								"h": 833,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 625,
+								"h": 833,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1109471659046654000,
+						"id_str": "1109471659046653955",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D2WimH3W0AMpCNE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2WimH3W0AMpCNE.jpg",
+						"url": "https://t.co/kO3ibzPl5q",
+						"display_url": "pic.twitter.com/kO3ibzPl5q",
+						"expanded_url": "https://twitter.com/scott_kerr/status/1109474948580560896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 625,
+								"h": 833,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 625,
+								"h": 833,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11837102,
+				"id_str": "11837102",
+				"name": "Scott Kerr",
+				"screen_name": "scott_kerr",
+				"location": "New York City",
+				"description": "Owner of @Silvertone_Inc | Helps businesses succeed on the edge of change | Speaker | Tweets on tech, design, culture, irony, tomorrowland",
+				"url": "https://t.co/Y8LSwxS2lX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y8LSwxS2lX",
+								"expanded_url": "http://www.linkedin.com/in/thescottkerr",
+								"display_url": "linkedin.com/in/thescottkerr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12202,
+				"friends_count": 764,
+				"listed_count": 558,
+				"created_at": "Fri Jan 04 13:10:56 +0000 2008",
+				"favourites_count": 16796,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090964476302684160/5ltQ07zg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090964476302684160/5ltQ07zg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11837102/1490082092",
+				"profile_link_color": "C92626",
+				"profile_sidebar_border_color": "242E60",
+				"profile_sidebar_fill_color": "223359",
+				"profile_text_color": "3D92B3",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Schlechte Karten für @janboehm https://t.co/93JzZZbE6a"
+	},
+	{
 		"created_at": "Fri Mar 22 21:39:31 +0000 2019",
 		"id": 1109208005235654700,
 		"id_str": "1109208005235654658",
