@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 04:14:05 +0000 2019",
+		"id": 1133587288066330600,
+		"id_str": "1133587288066330624",
+		"full_text": "Irre. https://t.co/KvPUFamlzY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KvPUFamlzY",
+					"expanded_url": "https://twitter.com/HistoryTime_/status/1132424917411139585",
+					"display_url": "twitter.com/HistoryTime_/s…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 138,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132424917411139600,
+		"quoted_status_id_str": "1132424917411139585",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KvPUFamlzY",
+			"expanded": "https://twitter.com/HistoryTime_/status/1132424917411139585",
+			"display": "twitter.com/HistoryTime_/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 25 23:15:14 +0000 2019",
+			"id": 1132424917411139600,
+			"id_str": "1132424917411139585",
+			"full_text": "F1 pit stops in 1981 vs 2019. https://t.co/8mdcoOMdEh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1132424862180495400,
+						"id_str": "1132424862180495361",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132424862180495361/pu/img/QB9MIAGESf11i0-J.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132424862180495361/pu/img/QB9MIAGESf11i0-J.jpg",
+						"url": "https://t.co/8mdcoOMdEh",
+						"display_url": "pic.twitter.com/8mdcoOMdEh",
+						"expanded_url": "https://twitter.com/HistoryTime_/status/1132424917411139585/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132424862180495400,
+						"id_str": "1132424862180495361",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132424862180495361/pu/img/QB9MIAGESf11i0-J.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132424862180495361/pu/img/QB9MIAGESf11i0-J.jpg",
+						"url": "https://t.co/8mdcoOMdEh",
+						"display_url": "pic.twitter.com/8mdcoOMdEh",
+						"expanded_url": "https://twitter.com/HistoryTime_/status/1132424917411139585/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 30200,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132424862180495361/pu/vid/576x720/bsrIvqA73ikxk9qc.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1132424862180495361/pu/pl/Mm6gQGam3wLDlc9Q.m3u8?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132424862180495361/pu/vid/360x450/BvbpdH4bmhd0jrLY.mp4?tag=9"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132424862180495361/pu/vid/320x400/ePPp6YUGsmD-QeGh.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2222188166,
+				"id_str": "2222188166",
+				"name": "Ｈｉｓｔｏｒｙ",
+				"screen_name": "HistoryTime_",
+				"location": "🇪🇺",
+				"description": "Non profit / Spam free\n\n#OTD - History /Pop culture/Art/Movie history/Literature ect.\nemailancientpics@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 460025,
+				"friends_count": 7,
+				"listed_count": 1921,
+				"created_at": "Fri Nov 29 23:57:21 +0000 2013",
+				"favourites_count": 15678,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 189,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112035745873776641/Y5KqaJQ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112035745873776641/Y5KqaJQ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2222188166/1510213809",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1485,
+			"favorite_count": 2503,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "eu",
+		"text": "Irre. https://t.co/KvPUFamlzY"
+	},
+	{
 		"created_at": "Mon May 27 17:47:39 +0000 2019",
 		"id": 1133067253832925200,
 		"id_str": "1133067253832925184",
