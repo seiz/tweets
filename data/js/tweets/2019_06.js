@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 15:50:12 +0000 2019",
+		"id": 1137716771010621400,
+		"id_str": "1137748739475615744",
+		"full_text": "Why I'm still using jQuery in 2019 https://t.co/Z24hUEzx6u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z24hUEzx6u",
+					"expanded_url": "https://arp242.net/jquery.html",
+					"display_url": "arp242.net/jquery.html",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82314058,
+			"id_str": "82314058",
+			"name": "schland.tech",
+			"screen_name": "drlogout",
+			"location": "Freiburg",
+			"description": "STERBT ALLE",
+			"url": "https://t.co/NUPX6AeoUw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NUPX6AeoUw",
+							"expanded_url": "https://noltech.net",
+							"display_url": "noltech.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 206,
+			"listed_count": 43,
+			"created_at": "Wed Oct 14 08:52:34 +0000 2009",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076583506338304008/JPylbiku_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076583506338304008/JPylbiku_normal.jpg",
+			"profile_link_color": "1C1E22",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why I'm still using jQuery in 2019 https://t.co/Z24hUEzx6u"
+	},
+	{
 		"created_at": "Fri Jun 07 10:48:48 +0000 2019",
 		"id": 1136948115053908000,
 		"id_str": "1136948115053907968",
