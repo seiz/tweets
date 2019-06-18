@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 19:35:32 +0000 2019",
+		"id": 1140704548270608400,
+		"id_str": "1140704548270608385",
+		"full_text": "Genial, wie hier schiere Cleverness die Rocket-Scientists von Google überführt. https://t.co/CFi2CZelRy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CFi2CZelRy",
+					"expanded_url": "https://twitter.com/daringfireball/status/1140699390203633664",
+					"display_url": "twitter.com/daringfireball…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 138,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1140699390203633700,
+		"quoted_status_id_str": "1140699390203633664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CFi2CZelRy",
+			"expanded": "https://twitter.com/daringfireball/status/1140699390203633664",
+			"display": "twitter.com/daringfireball…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 17 19:15:02 +0000 2019",
+			"id": 1140699390203633700,
+			"id_str": "1140699390203633664",
+			"full_text": "Genius Catches Google Copying Song Lyrics: https://t.co/kDWeYQIdUf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kDWeYQIdUf",
+						"expanded_url": "https://daringfireball.net/linked/2019/06/17/genius-google-ripoff",
+						"display_url": "daringfireball.net/linked/2019/06…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://daringfireball.net/\" rel=\"nofollow\">DF Tootbot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10760422,
+				"id_str": "10760422",
+				"name": "Daring Fireball",
+				"screen_name": "daringfireball",
+				"location": "",
+				"description": "Entries from Daring Fireball. Sort of like RSS but via Twitter.",
+				"url": "https://t.co/iipNKeMOWB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iipNKeMOWB",
+								"expanded_url": "https://daringfireball.net/",
+								"display_url": "daringfireball.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 92681,
+				"friends_count": 0,
+				"listed_count": 6580,
+				"created_at": "Sat Dec 01 05:55:06 +0000 2007",
+				"favourites_count": 331,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19226,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4A525A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1068658191041536001/q1bHVBDc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068658191041536001/q1bHVBDc_normal.jpg",
+				"profile_link_color": "323232",
+				"profile_sidebar_border_color": "4A525A",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Genial, wie hier schiere Cleverness die Rocket-Scientists von Google überführt. https://t.co/CFi2CZelRy"
+	},
+	{
 		"created_at": "Tue Jun 11 17:19:19 +0000 2019",
 		"id": 1138495943286894600,
 		"id_str": "1138495943286894592",
