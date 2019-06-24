@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 18:02:07 +0000 2019",
+		"id": 1142855366583160800,
+		"id_str": "1142855366583160834",
+		"full_text": "Puh! https://t.co/sFC8ptd509",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sFC8ptd509",
+					"expanded_url": "https://twitter.com/zeitonline/status/1142831488565678081",
+					"display_url": "twitter.com/zeitonline/sta…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 138,
+			"listed_count": 30,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1142831488565678100,
+		"quoted_status_id_str": "1142831488565678081",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sFC8ptd509",
+			"expanded": "https://twitter.com/zeitonline/status/1142831488565678081",
+			"display": "twitter.com/zeitonline/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 23 16:27:14 +0000 2019",
+			"id": 1142831488565678100,
+			"id_str": "1142831488565678081",
+			"full_text": "Wahl in Istanbul: AKP-Kandidat gesteht Niederlage ein https://t.co/8BoebEiYxy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8BoebEiYxy",
+						"expanded_url": "https://www.zeit.de/politik/ausland/2019-06/wahl-in-istanbul-akp-kandidat-gesteht-niederlage-ein",
+						"display_url": "zeit.de/politik/auslan…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.zeit.de\" rel=\"nofollow\">ZEITonline</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5715752,
+				"id_str": "5715752",
+				"name": "ZEIT ONLINE",
+				"screen_name": "zeitonline",
+				"location": "Berlin und Hamburg, Germany",
+				"description": "Ja, das ist unser offizieller Twitter-Account. Hier bekommen Sie die wichtigsten Geschichten und aktuelle News. || Impressum: https://t.co/HsU5BwJnJk",
+				"url": "http://t.co/zzdcZCBgYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zzdcZCBgYn",
+								"expanded_url": "http://www.zeit.de",
+								"display_url": "zeit.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HsU5BwJnJk",
+								"expanded_url": "http://www.zeit.de/impressum",
+								"display_url": "zeit.de/impressum",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2109705,
+				"friends_count": 39,
+				"listed_count": 9980,
+				"created_at": "Wed May 02 15:17:01 +0000 2007",
+				"favourites_count": 2385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 162338,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5715752/1404719577",
+				"profile_link_color": "910202",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 184,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Puh! https://t.co/sFC8ptd509"
+	},
+	{
 		"created_at": "Sat Jun 22 21:20:05 +0000 2019",
 		"id": 1142542798048174100,
 		"id_str": "1142542798048174080",
