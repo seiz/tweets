@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 17:08:23 +0000 2019",
+		"id": 1162048402462511000,
+		"id_str": "1162048402462511104",
+		"full_text": "Ist doch klar, dass das ne PR-Aktion ist. Trotzdem für einen guten Zweck. Warum sollte man auch für unseren Planeten keine PR machen? https://t.co/hI3gzZxhSn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hI3gzZxhSn",
+					"expanded_url": "https://twitter.com/zeitonline/status/1162047448656809984",
+					"display_url": "twitter.com/zeitonline/sta…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 139,
+			"listed_count": 29,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1162047448656810000,
+		"quoted_status_id_str": "1162047448656809984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hI3gzZxhSn",
+			"expanded": "https://twitter.com/zeitonline/status/1162047448656809984",
+			"display": "twitter.com/zeitonline/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 15 17:04:36 +0000 2019",
+			"id": 1162047448656810000,
+			"id_str": "1162047448656809984",
+			"full_text": "Greta #Thunberg lehnt Fliegen für sich ab, für ihre Segelreise zum Weltkimagipfel nach New York kommen aber zahlreiche Flugmeilen zusammen.  https://t.co/WQiMbbUrJA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Thunberg",
+						"indices": [
+							6,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WQiMbbUrJA",
+						"expanded_url": "https://www.zeit.de/gesellschaft/2019-08/un-klimagipfel-greta-thunberg-seeweg-klimaschutz-teammitglieder-flugweg",
+						"display_url": "zeit.de/gesellschaft/2…",
+						"indices": [
+							141,
+							164
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.zeit.de\" rel=\"nofollow\">ZEITonline</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5715752,
+				"id_str": "5715752",
+				"name": "ZEIT ONLINE",
+				"screen_name": "zeitonline",
+				"location": "Berlin und Hamburg, Germany",
+				"description": "Ja, das ist unser offizieller Twitter-Account. Hier bekommen Sie die wichtigsten Geschichten und aktuelle News. || Impressum: https://t.co/HsU5BwJnJk",
+				"url": "http://t.co/zzdcZCBgYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zzdcZCBgYn",
+								"expanded_url": "http://www.zeit.de",
+								"display_url": "zeit.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HsU5BwJnJk",
+								"expanded_url": "http://www.zeit.de/impressum",
+								"display_url": "zeit.de/impressum",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2119255,
+				"friends_count": 39,
+				"listed_count": 10021,
+				"created_at": "Wed May 02 15:17:01 +0000 2007",
+				"favourites_count": 2398,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 165238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5715752/1404719577",
+				"profile_link_color": "910202",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ist doch klar, dass das ne PR-Aktion ist. Trotzdem für einen guten Zweck. Warum sollte man auch für unseren Planeten keine PR machen? https://t.co/hI3gzZxhSn"
+	},
+	{
+		"created_at": "Thu Aug 15 12:02:47 +0000 2019",
+		"id": 1161971495654121500,
+		"id_str": "1161971495654121473",
+		"full_text": "@ChristophKappes war mir fast klar. Wollte nur sicher gehen, dass Du den auch wirklich gesehen hast, weil ich den so großartig fand…",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChristophKappes",
+					"name": "Christoph Kappes",
+					"id": 19961453,
+					"id_str": "19961453",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1161970921239920600,
+		"in_reply_to_status_id_str": "1161970921239920640",
+		"in_reply_to_user_id": 19961453,
+		"in_reply_to_user_id_str": "19961453",
+		"in_reply_to_screen_name": "ChristophKappes",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 139,
+			"listed_count": 29,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@ChristophKappes war mir fast klar. Wollte nur sicher gehen, dass Du den auch wirklich gesehen hast, weil ich den so großartig fand…"
+	},
+	{
 		"created_at": "Fri Aug 09 19:22:53 +0000 2019",
 		"id": 1159907923012784000,
 		"id_str": "1159907923012784128",
