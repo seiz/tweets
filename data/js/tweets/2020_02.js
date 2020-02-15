@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 22:07:52 +0000 2020",
+		"id": 1228440748477108200,
+		"id_str": "1228440748477108230",
+		"full_text": "Tolle Idee. https://t.co/O8sbBqNJSe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O8sbBqNJSe",
+					"expanded_url": "https://twitter.com/jasonfried/status/1228386674276782080",
+					"display_url": "twitter.com/jasonfried/sta…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 136,
+			"listed_count": 28,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228386674276782000,
+		"quoted_status_id_str": "1228386674276782080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O8sbBqNJSe",
+			"expanded": "https://twitter.com/jasonfried/status/1228386674276782080",
+			"display": "twitter.com/jasonfried/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 14 18:33:00 +0000 2020",
+			"id": 1228386674276782000,
+			"id_str": "1228386674276782080",
+			"full_text": "What a fascinating visualization of money, salary, income, revenue, etc —&gt; https://t.co/vicZA4srqp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vicZA4srqp",
+						"expanded_url": "https://neal.fun/printing-money/",
+						"display_url": "neal.fun/printing-money/",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14372143,
+				"id_str": "14372143",
+				"name": "Jason Fried",
+				"screen_name": "jasonfried",
+				"location": "Chicago, IL",
+				"description": "Founder & CEO at Basecamp. Non-serial entrepreneur. Co-author of Getting Real, REWORK, Remote, and “It Doesn’t Have to Be Crazy at Work”.",
+				"url": "https://t.co/gYy2I5QZDE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gYy2I5QZDE",
+								"expanded_url": "http://www.basecamp.com",
+								"display_url": "basecamp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 252731,
+				"friends_count": 196,
+				"listed_count": 10511,
+				"created_at": "Sun Apr 13 01:31:17 +0000 2008",
+				"favourites_count": 3744,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 36564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3413742921/0e9ef95e76c4a965b9b177fa2267d6c1_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3413742921/0e9ef95e76c4a965b9b177fa2267d6c1_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14372143/1581547589",
+				"profile_link_color": "999999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "222222",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 151,
+			"favorite_count": 498,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tolle Idee. https://t.co/O8sbBqNJSe"
+	},
+	{
 		"created_at": "Wed Feb 12 19:33:46 +0000 2020",
 		"id": 1227677192743739400,
 		"id_str": "1227677192743739392",
