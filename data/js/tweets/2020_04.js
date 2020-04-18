@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 20:28:10 +0000 2020",
+		"id": 1251246094228631600,
+		"id_str": "1251246094228631552",
+		"full_text": "@DavePolaschek Yep, no alternative. But the longer I have it and the worse my eyes get, I am beginning to like the larger screen. A shame my hands don’t grow anymore. The double tap home button helps me a lot.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavePolaschek",
+					"name": "Dave Polaschek",
+					"id": 2865684513,
+					"id_str": "2865684513",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1251212094856245200,
+		"in_reply_to_status_id_str": "1251212094856245248",
+		"in_reply_to_user_id": 2865684513,
+		"in_reply_to_user_id_str": "2865684513",
+		"in_reply_to_screen_name": "DavePolaschek",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 135,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DavePolaschek Yep, no alternative. But the longer I have it and the worse my eyes get, I am beginning to like the larger screen. A shame my hands don’t grow anymore. The double tap home button helps me a lot."
+	},
+	{
+		"created_at": "Fri Apr 17 18:05:09 +0000 2020",
+		"id": 1251210103686037500,
+		"id_str": "1251210103686037504",
+		"full_text": "@DavePolaschek Yes. But isn’t the new SE exactly the same size?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavePolaschek",
+					"name": "Dave Polaschek",
+					"id": 2865684513,
+					"id_str": "2865684513",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1251195347407384600,
+		"in_reply_to_status_id_str": "1251195347407384577",
+		"in_reply_to_user_id": 2865684513,
+		"in_reply_to_user_id_str": "2865684513",
+		"in_reply_to_screen_name": "DavePolaschek",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 135,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DavePolaschek Yes. But isn’t the new SE exactly the same size?"
+	},
+	{
+		"created_at": "Fri Apr 17 13:26:32 +0000 2020",
+		"id": 1251139985710997500,
+		"id_str": "1251139985710997504",
+		"full_text": "@DavePolaschek Idiot that I am, I had just ordered an 8 weeks ago. That gets passed to the wife now.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavePolaschek",
+					"name": "Dave Polaschek",
+					"id": 2865684513,
+					"id_str": "2865684513",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1251130141331173400,
+		"in_reply_to_status_id_str": "1251130141331173376",
+		"in_reply_to_user_id": 2865684513,
+		"in_reply_to_user_id_str": "2865684513",
+		"in_reply_to_screen_name": "DavePolaschek",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 135,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DavePolaschek Idiot that I am, I had just ordered an 8 weeks ago. That gets passed to the wife now."
+	},
+	{
+		"created_at": "Fri Apr 17 13:24:57 +0000 2020",
+		"id": 1251139589194027000,
+		"id_str": "1251139589194027009",
+		"full_text": "@DavePolaschek Welcome! #clubsmallphone",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clubsmallphone",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavePolaschek",
+					"name": "Dave Polaschek",
+					"id": 2865684513,
+					"id_str": "2865684513",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1251130141331173400,
+		"in_reply_to_status_id_str": "1251130141331173376",
+		"in_reply_to_user_id": 2865684513,
+		"in_reply_to_user_id_str": "2865684513",
+		"in_reply_to_screen_name": "DavePolaschek",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 135,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DavePolaschek Welcome! #clubsmallphone"
+	},
+	{
 		"created_at": "Tue Apr 14 06:54:38 +0000 2020",
 		"id": 1249954196629135400,
 		"id_str": "1249954196629135362",
