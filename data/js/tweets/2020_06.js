@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 15:32:15 +0000 2020",
+		"id": 1274101859049894000,
+		"id_str": "1274364449227444225",
+		"full_text": "Here’s the video WWDC 2020 should open with.\n\nFollowed by an apology and a complete overhaul of App Store policies. https://t.co/15n3o3JiHg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274087292181688300,
+					"id_str": "1274087292181688320",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274087292181688320/pu/img/70opodYB1hrNvVxj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274087292181688320/pu/img/70opodYB1hrNvVxj.jpg",
+					"url": "https://t.co/15n3o3JiHg",
+					"display_url": "pic.twitter.com/15n3o3JiHg",
+					"expanded_url": "https://twitter.com/dwineman/status/1274101859049893888/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274087292181688300,
+					"id_str": "1274087292181688320",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274087292181688320/pu/img/70opodYB1hrNvVxj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274087292181688320/pu/img/70opodYB1hrNvVxj.jpg",
+					"url": "https://t.co/15n3o3JiHg",
+					"display_url": "pic.twitter.com/15n3o3JiHg",
+					"expanded_url": "https://twitter.com/dwineman/status/1274101859049893888/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 66895,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1274087292181688320/pu/pl/xvHORCBsHXJCQINa.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274087292181688320/pu/vid/640x480/pBQ0pIAUF9d4FZUk.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274087292181688320/pu/vid/480x360/6SQt6EZKoy6PpCuE.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274087292181688320/pu/vid/360x270/iP7MJh21oQRWhtLj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15642029,
+			"id_str": "15642029",
+			"name": "Dan Wineman",
+			"screen_name": "dwineman",
+			"location": "Portland, OR",
+			"description": "Engineer at @panic, and stuff.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4535,
+			"friends_count": 438,
+			"listed_count": 365,
+			"created_at": "Tue Jul 29 04:14:35 +0000 2008",
+			"favourites_count": 24171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3C2311",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/514242939459883008/kri_IrCr_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/514242939459883008/kri_IrCr_normal.png",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1506,
+		"favorite_count": 5363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s the video WWDC 2020 should open with.\n\nFollowed by an apology and a complete overhaul of App Store policies. https://t.co/15n3o3JiHg"
+	},
+	{
 		"created_at": "Fri Jun 19 20:47:51 +0000 2020",
 		"id": 1274081484148793300,
 		"id_str": "1274081484148793347",
