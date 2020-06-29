@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 17:38:21 +0000 2020",
+		"id": 1277295283299397600,
+		"id_str": "1277295283299397632",
+		"full_text": "Symbolbild https://t.co/cFEPYfxOJS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cFEPYfxOJS",
+					"expanded_url": "https://twitter.com/BrynnTannehill/status/1277211131430535168",
+					"display_url": "twitter.com/BrynnTannehill…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 137,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277211131430535200,
+		"quoted_status_id_str": "1277211131430535168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cFEPYfxOJS",
+			"expanded": "https://twitter.com/BrynnTannehill/status/1277211131430535168",
+			"display": "twitter.com/BrynnTannehill…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 28 12:03:57 +0000 2020",
+			"id": 1277211131430535200,
+			"id_str": "1277211131430535168",
+			"full_text": "I don't think anything I've seen so perfectly captures why there's no way the US is going to be getting on top of COVID-19 pandemic anytime soon. https://t.co/Sa0WNYyYs6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1277210845563494400,
+						"id_str": "1277210845563494403",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/EbmQf0EWoAMkQ70.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbmQf0EWoAMkQ70.jpg",
+						"url": "https://t.co/Sa0WNYyYs6",
+						"display_url": "pic.twitter.com/Sa0WNYyYs6",
+						"expanded_url": "https://twitter.com/BrynnTannehill/status/1277211131430535168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277210845563494400,
+						"id_str": "1277210845563494403",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/EbmQf0EWoAMkQ70.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbmQf0EWoAMkQ70.jpg",
+						"url": "https://t.co/Sa0WNYyYs6",
+						"display_url": "pic.twitter.com/Sa0WNYyYs6",
+						"expanded_url": "https://twitter.com/BrynnTannehill/status/1277211131430535168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 877981025921638400,
+				"id_str": "877981025921638401",
+				"name": "Cassandra of Troy",
+				"screen_name": "BrynnTannehill",
+				"location": "Washington, DC",
+				"description": "",
+				"url": "https://t.co/DjugsTL3MK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DjugsTL3MK",
+								"expanded_url": "http://www.brynntannehill.com",
+								"display_url": "brynntannehill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19454,
+				"friends_count": 399,
+				"listed_count": 115,
+				"created_at": "Thu Jun 22 20:06:03 +0000 2017",
+				"favourites_count": 10493,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14034,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053609878592385025/7jD2R8kT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053609878592385025/7jD2R8kT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/877981025921638401/1539105944",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 205157,
+			"favorite_count": 768239,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Symbolbild https://t.co/cFEPYfxOJS"
+	},
+	{
 		"created_at": "Wed Jun 24 13:47:27 +0000 2020",
 		"id": 1275787624658210800,
 		"id_str": "1275787624658210817",
