@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 09:51:30 +0000 2020",
+		"id": 1284425555228729300,
+		"id_str": "1284425555228729344",
+		"full_text": "Ich schmeiß mich weg. https://t.co/xa4AoXId8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xa4AoXId8A",
+					"expanded_url": "https://twitter.com/sehnaoui/status/1250670910782287872",
+					"display_url": "twitter.com/sehnaoui/statu…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 137,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250670910782288000,
+		"quoted_status_id_str": "1250670910782287872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xa4AoXId8A",
+			"expanded": "https://twitter.com/sehnaoui/status/1250670910782287872",
+			"display": "twitter.com/sehnaoui/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 06:22:36 +0000 2020",
+			"id": 1250670910782288000,
+			"id_str": "1250670910782287872",
+			"full_text": "This makes me laugh and I can’t stop watching it 😂 https://t.co/V4jPmUWwaY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1250670886853783600,
+						"id_str": "1250670886853783554",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250670886853783554/pu/img/PpQSV7U0wD-ohZRJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250670886853783554/pu/img/PpQSV7U0wD-ohZRJ.jpg",
+						"url": "https://t.co/V4jPmUWwaY",
+						"display_url": "pic.twitter.com/V4jPmUWwaY",
+						"expanded_url": "https://twitter.com/sehnaoui/status/1250670910782287872/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250670886853783600,
+						"id_str": "1250670886853783554",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250670886853783554/pu/img/PpQSV7U0wD-ohZRJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250670886853783554/pu/img/PpQSV7U0wD-ohZRJ.jpg",
+						"url": "https://t.co/V4jPmUWwaY",
+						"display_url": "pic.twitter.com/V4jPmUWwaY",
+						"expanded_url": "https://twitter.com/sehnaoui/status/1250670910782287872/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 600,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 12334,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1250670886853783554/pu/vid/320x400/x71PY2O07EvJhPW-.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1250670886853783554/pu/vid/360x450/hJfUpZ2IDOyW0C1R.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1250670886853783554/pu/pl/2nh6QpWMW2FhXujN.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1250670886853783554/pu/vid/480x600/bMowz6B-v_9hs7e7.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60428991,
+				"id_str": "60428991",
+				"name": "Khalil",
+				"screen_name": "sehnaoui",
+				"location": "outside the box ...",
+				"description": "Just Another Rather Very Intelligent Sapien. InfoSec. Ethical Hacker. Jedi. Geek. Black Belt. HFC. Pirate Party. CCC. Founder @KryptonSec. Host @arabiaunboxing.",
+				"url": "https://t.co/IVtep0Ooch",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IVtep0Ooch",
+								"expanded_url": "http://khalilsehnaoui.com",
+								"display_url": "khalilsehnaoui.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28141,
+				"friends_count": 334,
+				"listed_count": 529,
+				"created_at": "Sun Jul 26 23:49:39 +0000 2009",
+				"favourites_count": 16134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23862,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191202266440749056/m6ZlK4BH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191202266440749056/m6ZlK4BH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60428991/1411179438",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1020,
+			"favorite_count": 3177,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ich schmeiß mich weg. https://t.co/xa4AoXId8A"
+	},
+	{
 		"created_at": "Thu Jul 16 14:24:45 +0000 2020",
 		"id": 1283769546298581000,
 		"id_str": "1283769546298580993",
