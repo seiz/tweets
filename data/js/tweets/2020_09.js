@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 07:47:01 +0000 2020",
+		"id": 1305050334923026400,
+		"id_str": "1305050334923026433",
+		"full_text": "Super weird pick for a support Post on Twitter. https://t.co/1nA9u3fbKI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1nA9u3fbKI",
+					"expanded_url": "https://twitter.com/AppleSupport/status/1304902702778978304",
+					"display_url": "twitter.com/AppleSupport/s…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 134,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304902702778978300,
+		"quoted_status_id_str": "1304902702778978304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1nA9u3fbKI",
+			"expanded": "https://twitter.com/AppleSupport/status/1304902702778978304",
+			"display": "twitter.com/AppleSupport/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 12 22:00:22 +0000 2020",
+			"id": 1304902702778978300,
+			"id_str": "1304902702778978304",
+			"full_text": "Tap your rocket to hear its engine roar. Fly it close to a planet to go into orbit. Here’s how to add behaviors to your virtual objects in Reality Composer, an augmented reality app from Apple. https://t.co/s27aRMw91r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1304902597590085600,
+						"id_str": "1304902597590085632",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/EhvyFbCWAAE4Enc.png",
+						"media_url_https": "https://pbs.twimg.com/media/EhvyFbCWAAE4Enc.png",
+						"url": "https://t.co/s27aRMw91r",
+						"display_url": "pic.twitter.com/s27aRMw91r",
+						"expanded_url": "https://twitter.com/AppleSupport/status/1304902702778978304/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1304902597590085600,
+						"id_str": "1304902597590085632",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/EhvyFbCWAAE4Enc.png",
+						"media_url_https": "https://pbs.twimg.com/media/EhvyFbCWAAE4Enc.png",
+						"url": "https://t.co/s27aRMw91r",
+						"display_url": "pic.twitter.com/s27aRMw91r",
+						"expanded_url": "https://twitter.com/AppleSupport/status/1304902702778978304/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 74667,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1304902597590085632/vid/1280x720/OrIzyd4XktO4_0A_.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1304902597590085632/vid/640x360/eAqdtZpUcXlrfZNJ.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1304902597590085632/pl/Ayrj8zJE_sNRcX-x.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1304902597590085632/vid/480x270/wNKiMiu50Y1P-b-J.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309375033,
+				"id_str": "3309375033",
+				"name": "Apple Support",
+				"screen_name": "AppleSupport",
+				"location": "Cupertino, CA",
+				"description": "We’re here to provide tips, tricks and helpful information when you need it most. We’re available every day to answer your questions, from 5am-8pm Pacific.",
+				"url": "https://t.co/zFeqTSVTef",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zFeqTSVTef",
+								"expanded_url": "http://support.apple.com",
+								"display_url": "support.apple.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1208483,
+				"friends_count": 28,
+				"listed_count": 5112,
+				"created_at": "Fri Jun 05 16:05:20 +0000 2015",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1265598,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1174747027986452480/cSlw47L-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174747027986452480/cSlw47L-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309375033/1596819756",
+				"profile_link_color": "0070C9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 319,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super weird pick for a support Post on Twitter. https://t.co/1nA9u3fbKI"
+	},
+	{
 		"created_at": "Fri Sep 11 11:14:02 +0000 2020",
 		"id": 1304377659674198000,
 		"id_str": "1304377659674198016",
