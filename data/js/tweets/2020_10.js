@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 14:31:18 +0000 2020",
+		"id": 1315298939730571300,
+		"id_str": "1315298939730571264",
+		"full_text": "Hier könnt Ihr für eine Legende spenden. Ich hab Ihn mal auf ner WWDC gesehen, war irgendwie damals schon etwas tragisch. Jetzt erst recht. https://t.co/BqcoWTmWH3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BqcoWTmWH3",
+					"expanded_url": "https://twitter.com/lesv/status/1315271621490343936",
+					"display_url": "twitter.com/lesv/status/13…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 134,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315271621490344000,
+		"quoted_status_id_str": "1315271621490343936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BqcoWTmWH3",
+			"expanded": "https://twitter.com/lesv/status/1315271621490343936",
+			"display": "twitter.com/lesv/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 11 12:42:45 +0000 2020",
+			"id": 1315271621490344000,
+			"id_str": "1315271621490343936",
+			"full_text": "Cap'n Crunch healing fund https://t.co/9EygkAcDOP \n\nAn old friend needs your help.  I traveled around the country w/ John almost 50 years ago.  I taught him to program.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9EygkAcDOP",
+						"expanded_url": "https://www.gofundme.com/f/cap039n-crunch-healing-fund?utm_source=twitter&utm_medium=social&utm_campaign=m_pd+share-sheet",
+						"display_url": "gofundme.com/f/cap039n-crun…",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9609702,
+				"id_str": "9609702",
+				"name": "Les Vogel",
+				"screen_name": "lesv",
+				"location": "SF Bay Area / Maui",
+				"description": "Les works as a Staff Engineer in developer relations for Google Cloud.",
+				"url": "https://t.co/dUzsQ3jyZq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dUzsQ3jyZq",
+								"expanded_url": "https://lesv.dev/",
+								"display_url": "lesv.dev",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1249,
+				"friends_count": 4186,
+				"listed_count": 64,
+				"created_at": "Tue Oct 23 00:03:15 +0000 2007",
+				"favourites_count": 12754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1678,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1221188126682402816/Xry6ZJlt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221188126682402816/Xry6ZJlt_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Hier könnt Ihr für eine Legende spenden. Ich hab Ihn mal auf ner WWDC gesehen, war irgendwie damals schon etwas tragisch. Jetzt erst recht. https://t.co/BqcoWTmWH3"
+	},
+	{
 		"created_at": "Thu Oct 08 09:12:29 +0000 2020",
 		"id": 1314131541942063000,
 		"id_str": "1314131541942063104",
