@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 18:32:02 +0000 2020",
+		"id": 1318621011089281000,
+		"id_str": "1318621011089281028",
+		"full_text": "@sandropennisi @kocienda One would think, that a company with Apple‘s cash, would manage to get free Demos and paid Upgrades developed into the Store. \n\nBut hey, instead we got TV-Shows and all kinds of Subscriptions they try hard to sell me. A customer which spent thousands on  Hardware since 1988.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandropennisi",
+					"name": "Sandro Pennisi",
+					"id": 28296118,
+					"id_str": "28296118",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kocienda",
+					"name": "Ken Kocienda",
+					"id": 14847607,
+					"id_str": "14847607",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1318615003747045400,
+		"in_reply_to_status_id_str": "1318615003747045387",
+		"in_reply_to_user_id": 28296118,
+		"in_reply_to_user_id_str": "28296118",
+		"in_reply_to_screen_name": "sandropennisi",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 134,
+			"listed_count": 27,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sandropennisi @kocienda One would think, that a company with Apple‘s cash, would manage to get free Demos and paid Upgrades developed into the Store. \n\nBut hey, instead we got TV-Shows and all kinds of Subscriptions they try hard to sell me. A customer which spent thousands on  Hardware since 1988."
+	},
+	{
 		"created_at": "Wed Oct 14 18:19:05 +0000 2020",
 		"id": 1316443422899740700,
 		"id_str": "1316443422899740673",
