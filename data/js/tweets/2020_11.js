@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 06:38:37 +0000 2020",
+		"id": 1327138781510701000,
+		"id_str": "1327138781510701056",
+		"full_text": "@DavePolaschek Wow!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavePolaschek",
+					"name": "Dave Polaschek",
+					"id": 2865684513,
+					"id_str": "2865684513",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1327044906502680600,
+		"in_reply_to_status_id_str": "1327044906502680576",
+		"in_reply_to_user_id": 2865684513,
+		"in_reply_to_user_id_str": "2865684513",
+		"in_reply_to_screen_name": "DavePolaschek",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@DavePolaschek Wow!"
+	},
+	{
+		"created_at": "Thu Nov 12 21:00:09 +0000 2020",
+		"id": 1326993208233046000,
+		"id_str": "1326993208233046018",
+		"full_text": "@adamengst @lapcatsoftware Yes, it is. Absolute horror.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamengst",
+					"name": "Adam C. Engst",
+					"id": 1502501,
+					"id_str": "1502501",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "lapcatsoftware",
+					"name": "Jeff Johnson",
+					"id": 751561495863914500,
+					"id_str": "751561495863914496",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1326992558791159800,
+		"in_reply_to_status_id_str": "1326992558791159809",
+		"in_reply_to_user_id": 1502501,
+		"in_reply_to_user_id_str": "1502501",
+		"in_reply_to_screen_name": "adamengst",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adamengst @lapcatsoftware Yes, it is. Absolute horror."
+	},
+	{
+		"created_at": "Thu Nov 12 20:57:51 +0000 2020",
+		"id": 1326992628248875000,
+		"id_str": "1326992628248875019",
+		"full_text": "@stuntbox @Apple See https://t.co/3ydFoI0CRn",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuntbox",
+					"name": "David Sleight",
+					"id": 7860352,
+					"id_str": "7860352",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3ydFoI0CRn",
+					"expanded_url": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
+					"display_url": "twitter.com/lapcatsoftware…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1326992004228714500,
+		"in_reply_to_status_id_str": "1326992004228714497",
+		"in_reply_to_user_id": 7860352,
+		"in_reply_to_user_id_str": "7860352",
+		"in_reply_to_screen_name": "stuntbox",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326990296412991500,
+		"quoted_status_id_str": "1326990296412991489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3ydFoI0CRn",
+			"expanded": "https://twitter.com/lapcatsoftware/status/1326990296412991489",
+			"display": "twitter.com/lapcatsoftware…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 12 20:48:35 +0000 2020",
+			"id": 1326990296412991500,
+			"id_str": "1326990296412991489",
+			"full_text": "Hey Apple users:\n\nIf you're now experiencing hangs launching apps on the Mac, I figured out the problem using Little Snitch.\n\nIt's trustd connecting to https://t.co/FzIGwbGRan\n\nDenying that connection fixes it, because OCSP is a soft failure.\n\n(Disconnect internet also fixes.) https://t.co/w9YciFltrb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FzIGwbGRan",
+						"expanded_url": "http://ocsp.apple.com",
+						"display_url": "ocsp.apple.com",
+						"indices": [
+							152,
+							175
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1326990293049217000,
+						"id_str": "1326990293049217025",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+						"url": "https://t.co/w9YciFltrb",
+						"display_url": "pic.twitter.com/w9YciFltrb",
+						"expanded_url": "https://twitter.com/lapcatsoftware/status/1326990296412991489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 64,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 36,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 98,
+								"h": 98,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1846,
+								"h": 98,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326990293049217000,
+						"id_str": "1326990293049217025",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+						"url": "https://t.co/w9YciFltrb",
+						"display_url": "pic.twitter.com/w9YciFltrb",
+						"expanded_url": "https://twitter.com/lapcatsoftware/status/1326990296412991489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 64,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 36,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 98,
+								"h": 98,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1846,
+								"h": 98,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 751561495863914500,
+				"id_str": "751561495863914496",
+				"name": "Jeff Johnson",
+				"screen_name": "lapcatsoftware",
+				"location": "Madison, Wisconsin",
+				"description": "Mac & iOS developer. StopTheMadness, Link Unshortener https://t.co/ZTsK6uf0iz Formerly Rogue Amoeba, Vienna RSS, ClickToFlash, Knox.",
+				"url": "https://t.co/ZyZ3aHg41q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZyZ3aHg41q",
+								"expanded_url": "https://lapcatsoftware.com",
+								"display_url": "lapcatsoftware.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZTsK6uf0iz",
+								"expanded_url": "https://apps.apple.com/us/developer/id1176742298",
+								"display_url": "apps.apple.com/us/developer/i…",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2649,
+				"friends_count": 304,
+				"listed_count": 82,
+				"created_at": "Fri Jul 08 23:39:58 +0000 2016",
+				"favourites_count": 31347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3657,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877941115122573312/-C9aziJz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877941115122573312/-C9aziJz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/751561495863914496/1533385430",
+				"profile_link_color": "2F72C0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 911,
+			"favorite_count": 2769,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@stuntbox @Apple See https://t.co/3ydFoI0CRn"
+	},
+	{
+		"created_at": "Thu Nov 12 20:55:54 +0000 2020",
+		"id": 1326990296412991500,
+		"id_str": "1326992136521256960",
+		"full_text": "Hey Apple users:\n\nIf you're now experiencing hangs launching apps on the Mac, I figured out the problem using Little Snitch.\n\nIt's trustd connecting to https://t.co/FzIGwbGRan\n\nDenying that connection fixes it, because OCSP is a soft failure.\n\n(Disconnect internet also fixes.) https://t.co/w9YciFltrb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FzIGwbGRan",
+					"expanded_url": "http://ocsp.apple.com",
+					"display_url": "ocsp.apple.com",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326990293049217000,
+					"id_str": "1326990293049217025",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+					"url": "https://t.co/w9YciFltrb",
+					"display_url": "pic.twitter.com/w9YciFltrb",
+					"expanded_url": "https://twitter.com/lapcatsoftware/status/1326990296412991489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 64,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 36,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 98,
+							"h": 98,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1846,
+							"h": 98,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326990293049217000,
+					"id_str": "1326990293049217025",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmpqpA2XEAEfZM6.jpg",
+					"url": "https://t.co/w9YciFltrb",
+					"display_url": "pic.twitter.com/w9YciFltrb",
+					"expanded_url": "https://twitter.com/lapcatsoftware/status/1326990296412991489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 64,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 36,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 98,
+							"h": 98,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1846,
+							"h": 98,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 751561495863914500,
+			"id_str": "751561495863914496",
+			"name": "Jeff Johnson",
+			"screen_name": "lapcatsoftware",
+			"location": "Madison, Wisconsin",
+			"description": "Mac & iOS developer. StopTheMadness, Link Unshortener https://t.co/ZTsK6uf0iz Formerly Rogue Amoeba, Vienna RSS, ClickToFlash, Knox.",
+			"url": "https://t.co/ZyZ3aHg41q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZyZ3aHg41q",
+							"expanded_url": "https://lapcatsoftware.com",
+							"display_url": "lapcatsoftware.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZTsK6uf0iz",
+							"expanded_url": "https://apps.apple.com/us/developer/id1176742298",
+							"display_url": "apps.apple.com/us/developer/i…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2649,
+			"friends_count": 304,
+			"listed_count": 82,
+			"created_at": "Fri Jul 08 23:39:58 +0000 2016",
+			"favourites_count": 31347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877941115122573312/-C9aziJz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877941115122573312/-C9aziJz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/751561495863914496/1533385430",
+			"profile_link_color": "2F72C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 911,
+		"favorite_count": 2769,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey Apple users:\n\nIf you're now experiencing hangs launching apps on the Mac, I figured out the problem using Little Snitch.\n\nIt's trustd connecting to https://t.co/FzIGwbGRan\n\nDenying that connection fixes it, because OCSP is a soft failure.\n\n(Disconnect internet also fixes.) https://t.co/w9YciFltrb"
+	},
+	{
 		"created_at": "Wed Nov 11 17:34:08 +0000 2020",
 		"id": 1326578971476103200,
 		"id_str": "1326578971476103168",
