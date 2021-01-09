@@ -1,6 +1,834 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 17:38:43 +0000 2021",
+		"id": 1347598624822321200,
+		"id_str": "1347598624822321152",
+		"full_text": "DaS https://t.co/2AjWkSR8OD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2AjWkSR8OD",
+					"expanded_url": "https://twitter.com/seiz/status/1347597407421427712",
+					"display_url": "twitter.com/seiz/status/13…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347597407421427700,
+		"quoted_status_id_str": "1347597407421427712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2AjWkSR8OD",
+			"expanded": "https://twitter.com/seiz/status/1347597407421427712",
+			"display": "twitter.com/seiz/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 08 17:33:53 +0000 2021",
+			"id": 1347597407421427700,
+			"id_str": "1347597407421427712",
+			"full_text": "Da hab ich geliebt, damals. https://t.co/XA1RwOPYvF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XA1RwOPYvF",
+						"expanded_url": "https://youtube.com/playlist?list=PLljGJGOCnENP1-pFB1rNfMTkl6mz6Vz6Q",
+						"display_url": "youtube.com/playlist?list=…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 617963,
+				"id_str": "617963",
+				"name": "zıəs uɐɟəʇs",
+				"screen_name": "seiz",
+				"location": "48.70516,9.651704",
+				"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+				"url": "https://t.co/y45Sl34avS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y45Sl34avS",
+								"expanded_url": "http://meckr.imd.net",
+								"display_url": "meckr.imd.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5UFfaMMOCQ",
+								"expanded_url": "https://stefanseiz.com",
+								"display_url": "stefanseiz.com",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 183,
+				"friends_count": 135,
+				"listed_count": 26,
+				"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+				"favourites_count": 728,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16429,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2E2E2E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "DaS https://t.co/2AjWkSR8OD"
+	},
+	{
+		"created_at": "Fri Jan 08 17:33:53 +0000 2021",
+		"id": 1347597407421427700,
+		"id_str": "1347597407421427712",
+		"full_text": "Da hab ich geliebt, damals. https://t.co/XA1RwOPYvF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XA1RwOPYvF",
+					"expanded_url": "https://youtube.com/playlist?list=PLljGJGOCnENP1-pFB1rNfMTkl6mz6Vz6Q",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Da hab ich geliebt, damals. https://t.co/XA1RwOPYvF"
+	},
+	{
+		"created_at": "Fri Jan 08 15:38:15 +0000 2021",
+		"id": 1347568306723676200,
+		"id_str": "1347568306723676164",
+		"full_text": "@katzentratschen @techniktagebuch Bei Hermes musste ich mit deren Kuli auf meinem Paket unterschreiben, das dann vom Kurrier abfotografiert wurde. 🤯",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katzentratschen",
+					"name": "Katzentratschen",
+					"id": 259430926,
+					"id_str": "259430926",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "techniktagebuch",
+					"name": "Techniktagebuch",
+					"id": 2359474651,
+					"id_str": "2359474651",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1347446830913753000,
+		"in_reply_to_status_id_str": "1347446830913753090",
+		"in_reply_to_user_id": 259430926,
+		"in_reply_to_user_id_str": "259430926",
+		"in_reply_to_screen_name": "katzentratschen",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@katzentratschen @techniktagebuch Bei Hermes musste ich mit deren Kuli auf meinem Paket unterschreiben, das dann vom Kurrier abfotografiert wurde. 🤯"
+	},
+	{
+		"created_at": "Fri Jan 08 08:28:44 +0000 2021",
+		"id": 1347460214665187300,
+		"id_str": "1347460214665187328",
+		"full_text": "@jasonfried I use the Kamira every day. https://t.co/8aS11LHwsD",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasonfried",
+					"name": "Jason Fried",
+					"id": 14372143,
+					"id_str": "14372143",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8aS11LHwsD",
+					"expanded_url": "https://twitter.com/seiz/status/1314124245715345408",
+					"display_url": "twitter.com/seiz/status/13…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1347459424613503000,
+		"in_reply_to_status_id_str": "1347459424613502976",
+		"in_reply_to_user_id": 617963,
+		"in_reply_to_user_id_str": "617963",
+		"in_reply_to_screen_name": "seiz",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314124245715345400,
+		"quoted_status_id_str": "1314124245715345408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8aS11LHwsD",
+			"expanded": "https://twitter.com/seiz/status/1314124245715345408",
+			"display": "twitter.com/seiz/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 08 08:43:30 +0000 2020",
+			"id": 1314124245715345400,
+			"id_str": "1314124245715345408",
+			"full_text": "Weil der Siebträger schwächelt, mal wieder die Kamira ausgepackt. \n\nDieses Wunderwerk italienischer Ingenieurskunst macht einfach den besten Kaffee. https://t.co/OpSj9inMWj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1314124200009961500,
+						"id_str": "1314124200009961472",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314124200009961472/pu/img/QU_MUZadZrhsOwGO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314124200009961472/pu/img/QU_MUZadZrhsOwGO.jpg",
+						"url": "https://t.co/OpSj9inMWj",
+						"display_url": "pic.twitter.com/OpSj9inMWj",
+						"expanded_url": "https://twitter.com/seiz/status/1314124245715345408/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314124200009961500,
+						"id_str": "1314124200009961472",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314124200009961472/pu/img/QU_MUZadZrhsOwGO.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314124200009961472/pu/img/QU_MUZadZrhsOwGO.jpg",
+						"url": "https://t.co/OpSj9inMWj",
+						"display_url": "pic.twitter.com/OpSj9inMWj",
+						"expanded_url": "https://twitter.com/seiz/status/1314124245715345408/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 58873,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1314124200009961472/pu/vid/320x568/AeQ5Bgf2Z2PMWri3.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1314124200009961472/pu/vid/720x1280/vU9cQofMSB8ULHyb.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1314124200009961472/pu/pl/OqoccLTQJ9S6e5lm.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1314124200009961472/pu/vid/360x640/bJWzSo3llzaJCvUB.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 617963,
+				"id_str": "617963",
+				"name": "zıəs uɐɟəʇs",
+				"screen_name": "seiz",
+				"location": "48.70516,9.651704",
+				"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+				"url": "https://t.co/y45Sl34avS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y45Sl34avS",
+								"expanded_url": "http://meckr.imd.net",
+								"display_url": "meckr.imd.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5UFfaMMOCQ",
+								"expanded_url": "https://stefanseiz.com",
+								"display_url": "stefanseiz.com",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 183,
+				"friends_count": 135,
+				"listed_count": 26,
+				"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+				"favourites_count": 728,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16429,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "2E2E2E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jasonfried I use the Kamira every day. https://t.co/8aS11LHwsD"
+	},
+	{
 		"created_at": "Thu Jan 07 21:52:11 +0000 2021",
 		"id": 1347300022522679300,
 		"id_str": "1347300022522679301",
