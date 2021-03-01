@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 20:52:52 +0000 2021",
+		"id": 1366129264274333700,
+		"id_str": "1366129264274333707",
+		"full_text": "Ja, das mit der Digitalisierung ist schwer. Zudem macht es Inkompetenz auch noch transparent. https://t.co/hO0fQDbioA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hO0fQDbioA",
+					"expanded_url": "https://twitter.com/zerforschung/status/1366082035933204493",
+					"display_url": "twitter.com/zerforschung/s…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 136,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366082035933204500,
+		"quoted_status_id_str": "1366082035933204493",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hO0fQDbioA",
+			"expanded": "https://twitter.com/zerforschung/status/1366082035933204493",
+			"display": "twitter.com/zerforschung/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 28 17:45:12 +0000 2021",
+			"id": 1366082035933204500,
+			"id_str": "1366082035933204493",
+			"full_text": "🧵 Thread 🧵\n\nGestern wurde bekannt gegeben dass ab morgen Einreisenden bei der Einreise eine SMS gesendet wird um sie über die Corona-Regeln zu informieren.\n\nWir haben privat schon ein bisschen Witze gemacht, dass die SMS sicher nur einen Link auf eine Website enthält … https://t.co/l7oJxGo84B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1366080737108189200,
+						"id_str": "1366080737108189187",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvVLMU3WYAMQy88.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvVLMU3WYAMQy88.jpg",
+						"url": "https://t.co/l7oJxGo84B",
+						"display_url": "pic.twitter.com/l7oJxGo84B",
+						"expanded_url": "https://twitter.com/zerforschung/status/1366082035933204493/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 344,
+								"h": 344,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 344,
+								"h": 344,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 344,
+								"h": 344,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1366080737108189200,
+						"id_str": "1366080737108189187",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvVLMU3WYAMQy88.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvVLMU3WYAMQy88.jpg",
+						"url": "https://t.co/l7oJxGo84B",
+						"display_url": "pic.twitter.com/l7oJxGo84B",
+						"expanded_url": "https://twitter.com/zerforschung/status/1366082035933204493/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 344,
+								"h": 344,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 344,
+								"h": 344,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 344,
+								"h": 344,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EvVLMU3WYAMQy88.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1306163240922230800,
+				"id_str": "1306163240922230784",
+				"name": "zerforschung",
+				"screen_name": "zerforschung",
+				"location": "",
+				"description": "reverse engineering in progress.",
+				"url": "https://t.co/CetFIStMSn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CetFIStMSn",
+								"expanded_url": "https://zerforschung.org/",
+								"display_url": "zerforschung.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2742,
+				"friends_count": 1,
+				"listed_count": 11,
+				"created_at": "Wed Sep 16 09:30:22 +0000 2020",
+				"favourites_count": 26,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 235,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1307781382446501888/R56wo9qw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307781382446501888/R56wo9qw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1306163240922230784/1600634881",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 709,
+			"favorite_count": 1421,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ja, das mit der Digitalisierung ist schwer. Zudem macht es Inkompetenz auch noch transparent. https://t.co/hO0fQDbioA"
+	},
+	{
+		"created_at": "Sun Feb 28 11:04:03 +0000 2021",
+		"id": 1365981083825758200,
+		"id_str": "1365981083825758209",
+		"full_text": "@ChristophKappes FOMO",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChristophKappes",
+					"name": "Christoph Kappes",
+					"id": 19961453,
+					"id_str": "19961453",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1365969395433033700,
+		"in_reply_to_status_id_str": "1365969395433033729",
+		"in_reply_to_user_id": 19961453,
+		"in_reply_to_user_id_str": "19961453",
+		"in_reply_to_screen_name": "ChristophKappes",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 136,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pt",
+		"text": "@ChristophKappes FOMO"
+	},
+	{
 		"created_at": "Tue Feb 23 07:29:58 +0000 2021",
 		"id": 1364115267857571800,
 		"id_str": "1364115267857571844",
