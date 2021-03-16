@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 16 06:37:36 +0000 2021",
+		"id": 1371712233487659000,
+		"id_str": "1371712233487659009",
+		"full_text": "Stimmt ja. War hier am Freitag ein Jahr. https://t.co/YwhBgORjz1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YwhBgORjz1",
+					"expanded_url": "https://twitter.com/Lomovogt/status/1371695166877282306",
+					"display_url": "twitter.com/Lomovogt/statu…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184,
+			"friends_count": 137,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371695166877282300,
+		"quoted_status_id_str": "1371695166877282306",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YwhBgORjz1",
+			"expanded": "https://twitter.com/Lomovogt/status/1371695166877282306",
+			"display": "twitter.com/Lomovogt/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 16 05:29:47 +0000 2021",
+			"id": 1371695166877282300,
+			"id_str": "1371695166877282306",
+			"full_text": "Ein Jahr Heimarbeit.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				20
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2943701,
+				"id_str": "2943701",
+				"name": "Holger Vogt",
+				"screen_name": "Lomovogt",
+				"location": "Stuttgart, Germany",
+				"description": "Twittere meist über: Konzertemachen im @indiewohnzimmer, Konzertbloggerei für @gigblognet und #Radfahren in #Stuttgart",
+				"url": "https://t.co/RKeT7Gisam",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RKeT7Gisam",
+								"expanded_url": "https://indiewohnzimmer.de",
+								"display_url": "indiewohnzimmer.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 435,
+				"friends_count": 408,
+				"listed_count": 25,
+				"created_at": "Fri Mar 30 06:48:24 +0000 2007",
+				"favourites_count": 2827,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3216,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1224574514173968384/wWdFIHCx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224574514173968384/wWdFIHCx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2943701/1571685057",
+				"profile_link_color": "383838",
+				"profile_sidebar_border_color": "798FC1",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "444444",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Stimmt ja. War hier am Freitag ein Jahr. https://t.co/YwhBgORjz1"
+	},
+	{
 		"created_at": "Sun Mar 14 20:48:37 +0000 2021",
 		"id": 1371201624631349200,
 		"id_str": "1371201624631349249",
