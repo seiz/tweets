@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 18 19:00:09 +0000 2021",
+		"id": 1372623877067640800,
+		"id_str": "1372623877067640834",
+		"full_text": "This makes me sad. What a total waste of energy by someone you‘d think, knows better. https://t.co/ZYlYMQAdOH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZYlYMQAdOH",
+					"expanded_url": "https://twitter.com/SusanKare/status/1372259266233466881",
+					"display_url": "twitter.com/SusanKare/stat…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 137,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1372259266233467000,
+		"quoted_status_id_str": "1372259266233466881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZYlYMQAdOH",
+			"expanded": "https://twitter.com/SusanKare/status/1372259266233466881",
+			"display": "twitter.com/SusanKare/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 17 18:51:19 +0000 2021",
+			"id": 1372259266233467000,
+			"id_str": "1372259266233466881",
+			"full_text": "My first NFT icon snack https://t.co/umkNx1ueco Thanks @jbrukh  : n )",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jbrukh",
+						"name": "Miami Jake Brukhman",
+						"id": 14592709,
+						"id_str": "14592709",
+						"indices": [
+							55,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/umkNx1ueco",
+						"expanded_url": "https://rarible.com/susankare",
+						"display_url": "rarible.com/susankare",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 215456428,
+				"id_str": "215456428",
+				"name": "Susan Kare",
+				"screen_name": "SusanKare",
+				"location": "San Francisco, CA",
+				"description": "Designer of icons and graphics, now at @Nianticlabs. Enjoy creating prints and murals and crafts. Please visit https://t.co/tMQ43SF1Oe",
+				"url": "https://t.co/73s3FBaxEQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/73s3FBaxEQ",
+								"expanded_url": "http://www.kareprints.com",
+								"display_url": "kareprints.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tMQ43SF1Oe",
+								"expanded_url": "http://kareprints.com",
+								"display_url": "kareprints.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23654,
+				"friends_count": 526,
+				"listed_count": 537,
+				"created_at": "Sun Nov 14 00:23:28 +0000 2010",
+				"favourites_count": 2986,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1536,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522899701041864704/b3A6HFD8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522899701041864704/b3A6HFD8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/215456428/1379912309",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This makes me sad. What a total waste of energy by someone you‘d think, knows better. https://t.co/ZYlYMQAdOH"
+	},
+	{
 		"created_at": "Wed Mar 17 21:08:49 +0000 2021",
 		"id": 1372293870285906000,
 		"id_str": "1372293870285905929",
