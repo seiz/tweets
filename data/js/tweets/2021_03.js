@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 24 14:34:47 +0000 2021",
+		"id": 1374731423278624800,
+		"id_str": "1374731423278624768",
+		"full_text": "Das darf doch alles nicht wahr sein. https://t.co/xzH1hugWX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xzH1hugWX7",
+					"expanded_url": "https://twitter.com/TheKendallBaker/status/1374653985131483138",
+					"display_url": "twitter.com/TheKendallBake…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 137,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374653985131483100,
+		"quoted_status_id_str": "1374653985131483138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xzH1hugWX7",
+			"expanded": "https://twitter.com/TheKendallBaker/status/1374653985131483138",
+			"display": "twitter.com/TheKendallBake…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 24 09:27:04 +0000 2021",
+			"id": 1374653985131483100,
+			"id_str": "1374653985131483138",
+			"full_text": "Competitive walnut smashing is a real thing that exists. https://t.co/e4gPFFsMMG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1374653488576266200,
+						"id_str": "1374653488576266240",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374653488576266240/pu/img/d7npf1cVIRkUM_ZS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374653488576266240/pu/img/d7npf1cVIRkUM_ZS.jpg",
+						"url": "https://t.co/e4gPFFsMMG",
+						"display_url": "pic.twitter.com/e4gPFFsMMG",
+						"expanded_url": "https://twitter.com/TheKendallBaker/status/1374653985131483138/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1374653488576266200,
+						"id_str": "1374653488576266240",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374653488576266240/pu/img/d7npf1cVIRkUM_ZS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374653488576266240/pu/img/d7npf1cVIRkUM_ZS.jpg",
+						"url": "https://t.co/e4gPFFsMMG",
+						"display_url": "pic.twitter.com/e4gPFFsMMG",
+						"expanded_url": "https://twitter.com/TheKendallBaker/status/1374653985131483138/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 137760,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1374653488576266240/pu/vid/480x270/1SaSYlOgVQwUyMF-.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1374653488576266240/pu/vid/640x360/Jeufor_Md7luxLB4.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1374653488576266240/pu/vid/1280x720/Fs-Y_KaFG14EcQse.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1374653488576266240/pu/pl/mfv_CsIT8Ln6l0u5.m3u8?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2340905204,
+				"id_str": "2340905204",
+				"name": "Kendall Baker",
+				"screen_name": "TheKendallBaker",
+				"location": "Washington, DC",
+				"description": "Sports @axios / I write a daily sports/sports business newsletter / Sign up: https://t.co/fRrasCjRVw",
+				"url": "https://t.co/fRrasCjRVw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fRrasCjRVw",
+								"expanded_url": "http://sports.axios.com",
+								"display_url": "sports.axios.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fRrasCjRVw",
+								"expanded_url": "http://sports.axios.com",
+								"display_url": "sports.axios.com",
+								"indices": [
+									77,
+									100
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12020,
+				"friends_count": 956,
+				"listed_count": 203,
+				"created_at": "Wed Feb 12 20:38:26 +0000 2014",
+				"favourites_count": 11510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7786,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1314720456491126786/YI_-s-wp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314720456491126786/YI_-s-wp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2340905204/1614286703",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 277,
+			"favorite_count": 820,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Das darf doch alles nicht wahr sein. https://t.co/xzH1hugWX7"
+	},
+	{
 		"created_at": "Mon Mar 22 20:10:59 +0000 2021",
 		"id": 1374091256679305200,
 		"id_str": "1374091256679305218",
