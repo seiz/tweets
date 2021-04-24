@@ -1,6 +1,897 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 23 20:46:14 +0000 2021",
+		"id": 1385696537607614500,
+		"id_str": "1385696537607614464",
+		"full_text": "@web_martin Hoppla, aus Versehen mit der Uhr retweetet. Scheiss Technik ;-)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "web_martin",
+					"name": "ɹǝqǝʍ uıʇɹɐɯ",
+					"id": 12948892,
+					"id_str": "12948892",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1385694550879047700,
+		"in_reply_to_status_id_str": "1385694550879047691",
+		"in_reply_to_user_id": 12948892,
+		"in_reply_to_user_id_str": "12948892",
+		"in_reply_to_screen_name": "web_martin",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@web_martin Hoppla, aus Versehen mit der Uhr retweetet. Scheiss Technik ;-)"
+	},
+	{
+		"created_at": "Fri Apr 23 20:39:03 +0000 2021",
+		"id": 1385694550879047700,
+		"id_str": "1385694732664418309",
+		"full_text": "@seiz Habe ich mit Tiles so ähnlich am Kinderwagen etc gemacht. Die kann man Praktischerweise auch kleben. Sollte mir AirTags auch gehen.",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seiz",
+					"name": "zıəs uɐɟəʇs",
+					"id": 617963,
+					"id_str": "617963",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1385688601703374800,
+		"in_reply_to_status_id_str": "1385688601703374849",
+		"in_reply_to_user_id": 617963,
+		"in_reply_to_user_id_str": "617963",
+		"in_reply_to_screen_name": "seiz",
+		"user": {
+			"id": 12948892,
+			"id_str": "12948892",
+			"name": "ɹǝqǝʍ uıʇɹɐɯ",
+			"screen_name": "web_martin",
+			"location": "Germany",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 973,
+			"friends_count": 271,
+			"listed_count": 57,
+			"created_at": "Fri Feb 01 16:14:38 +0000 2008",
+			"favourites_count": 4455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4D565F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991056894646087680/gn0D3H1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991056894646087680/gn0D3H1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12948892/1546658175",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "5B626C",
+			"profile_sidebar_fill_color": "666666",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de",
+		"text": "@seiz Habe ich mit Tiles so ähnlich am Kinderwagen etc gemacht. Die kann man Praktischerweise auch kleben. Sollte mir AirTags auch gehen."
+	},
+	{
+		"created_at": "Fri Apr 23 20:14:42 +0000 2021",
+		"id": 1385688601703374800,
+		"id_str": "1385688601703374849",
+		"full_text": "Ich glaub, ich verbaue einen Airtag im eBike. So unsichtbar wie möglich.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "Ich glaub, ich verbaue einen Airtag im eBike. So unsichtbar wie möglich."
+	},
+	{
+		"created_at": "Fri Apr 23 18:42:19 +0000 2021",
+		"id": 1385665355146834000,
+		"id_str": "1385665355146833922",
+		"full_text": "Ironie in sozialen Medien funktioniert, wie im RL auch, nur wenn man sich richtig gut kennt.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "Ironie in sozialen Medien funktioniert, wie im RL auch, nur wenn man sich richtig gut kennt."
+	},
+	{
+		"created_at": "Fri Apr 23 18:36:02 +0000 2021",
+		"id": 1385663771658657800,
+		"id_str": "1385663771658657801",
+		"full_text": "@ChristophKappes Mir auch. Als Einzelner kann man schon mal ne dumme Idee haben. Aber zu über fünfzigst?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChristophKappes",
+					"name": "Christoph Kappes",
+					"id": 19961453,
+					"id_str": "19961453",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1385658359337132000,
+		"in_reply_to_status_id_str": "1385658359337132032",
+		"in_reply_to_user_id": 19961453,
+		"in_reply_to_user_id_str": "19961453",
+		"in_reply_to_screen_name": "ChristophKappes",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@ChristophKappes Mir auch. Als Einzelner kann man schon mal ne dumme Idee haben. Aber zu über fünfzigst?"
+	},
+	{
+		"created_at": "Fri Apr 23 16:20:07 +0000 2021",
+		"id": 1385629568883691500,
+		"id_str": "1385629568883691525",
+		"full_text": "@baranek Dachte kurz auf Bild 3 stünde „LOL“.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baranek",
+					"name": "Dirk Baranek",
+					"id": 928881,
+					"id_str": "928881",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1385567389887176700,
+		"in_reply_to_status_id_str": "1385567389887176705",
+		"in_reply_to_user_id": 928881,
+		"in_reply_to_user_id_str": "928881",
+		"in_reply_to_screen_name": "baranek",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@baranek Dachte kurz auf Bild 3 stünde „LOL“."
+	},
+	{
+		"created_at": "Fri Apr 23 14:02:47 +0000 2021",
+		"id": 1385558177715048400,
+		"id_str": "1385595006778585090",
+		"full_text": "Eine kurze Nachricht an meine Freunde von #allesdichtmachen #allesschlichtmachen zum Thema Meinungsfreiheit. https://t.co/ZKsAMgIbhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "allesdichtmachen",
+					"indices": [
+						42,
+						59
+					]
+				},
+				{
+					"text": "allesschlichtmachen",
+					"indices": [
+						60,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385557795332935700,
+					"id_str": "1385557795332935680",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1385557795332935680/img/wveoNXG0dnzX6324.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1385557795332935680/img/wveoNXG0dnzX6324.jpg",
+					"url": "https://t.co/ZKsAMgIbhn",
+					"display_url": "pic.twitter.com/ZKsAMgIbhn",
+					"expanded_url": "https://twitter.com/Afelia/status/1385558177715048457/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385557795332935700,
+					"id_str": "1385557795332935680",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1385557795332935680/img/wveoNXG0dnzX6324.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1385557795332935680/img/wveoNXG0dnzX6324.jpg",
+					"url": "https://t.co/ZKsAMgIbhn",
+					"display_url": "pic.twitter.com/ZKsAMgIbhn",
+					"expanded_url": "https://twitter.com/Afelia/status/1385558177715048457/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 116913,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1385557795332935680/pl/wnNkramMLzm2RvPT.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1385557795332935680/vid/540x540/OTZmyBUL4xmjEu-m.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1385557795332935680/vid/320x320/dsE8vRaurmhnDlA3.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1385557795332935680/vid/720x720/SAsdwS9iaKIZTPu0.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16569660,
+			"id_str": "16569660",
+			"name": "Marina Weisband",
+			"screen_name": "Afelia",
+			"location": "Münster",
+			"description": "Beteiligungspädagogin, Leitung https://t.co/dYK4BY8g1j, Co-Vorsitzende @D64ev.\n\nPolitik, zeitgemäße Bildung, Gesellschaft im Umbruch. \n\nKann Spannbettlaken falten.",
+			"url": "https://t.co/XAgFslBHdC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XAgFslBHdC",
+							"expanded_url": "http://marinaweisband.de",
+							"display_url": "marinaweisband.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dYK4BY8g1j",
+							"expanded_url": "http://aula.de",
+							"display_url": "aula.de",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153318,
+			"friends_count": 669,
+			"listed_count": 1670,
+			"created_at": "Fri Oct 03 00:22:54 +0000 2008",
+			"favourites_count": 24195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 57870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF8E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378971015678681095/B5F_GXok_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378971015678681095/B5F_GXok_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16569660/1486632097",
+			"profile_link_color": "805B33",
+			"profile_sidebar_border_color": "F0EDD8",
+			"profile_sidebar_fill_color": "EBE9D6",
+			"profile_text_color": "593421",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7173,
+		"favorite_count": 27694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Eine kurze Nachricht an meine Freunde von #allesdichtmachen #allesschlichtmachen zum Thema Meinungsfreiheit. https://t.co/ZKsAMgIbhn"
+	},
+	{
 		"created_at": "Thu Apr 22 20:33:20 +0000 2021",
 		"id": 1385330904369963000,
 		"id_str": "1385330904369963009",
