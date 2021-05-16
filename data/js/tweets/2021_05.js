@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 12:16:26 +0000 2021",
+		"id": 1393540774520885200,
+		"id_str": "1393540774520885251",
+		"full_text": "Ich befürchte, in den USA könnten Luftpumpen bald Mangelware sein. https://t.co/98RRx8k3gZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/98RRx8k3gZ",
+					"expanded_url": "https://twitter.com/zeitonline/status/1393534279926304768",
+					"display_url": "twitter.com/zeitonline/sta…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393534279926304800,
+		"quoted_status_id_str": "1393534279926304768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/98RRx8k3gZ",
+			"expanded": "https://twitter.com/zeitonline/status/1393534279926304768",
+			"display": "twitter.com/zeitonline/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 15 11:50:37 +0000 2021",
+			"id": 1393534279926304800,
+			"id_str": "1393534279926304768",
+			"full_text": "Auch Säugetiere können einer Studie zufolge über den Darm atmen. Die Methode könnte auch dem Menschen helfen, wenn Beatmungsgeräte knapp werden. #Coronavirus https://t.co/rJjHtsNbZN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Coronavirus",
+						"indices": [
+							145,
+							157
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rJjHtsNbZN",
+						"expanded_url": "https://www.zeit.de/wissen/2021-05/sauerstoff-aufnahme-saeugetiere-darm-schweine-maeuse-studie-biologie?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+						"display_url": "zeit.de/wissen/2021-05…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.zeit.de\" rel=\"nofollow\">ZEITonline</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5715752,
+				"id_str": "5715752",
+				"name": "ZEIT ONLINE",
+				"screen_name": "zeitonline",
+				"location": "Berlin und Hamburg, Germany",
+				"description": "Ja, das ist unser offizieller Twitter-Account. Hier bekommen Sie die wichtigsten Geschichten und aktuelle News. || Impressum: https://t.co/HsU5BwJnJk",
+				"url": "http://t.co/zzdcZCBgYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zzdcZCBgYn",
+								"expanded_url": "http://www.zeit.de",
+								"display_url": "zeit.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HsU5BwJnJk",
+								"expanded_url": "http://www.zeit.de/impressum",
+								"display_url": "zeit.de/impressum",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2347959,
+				"friends_count": 42,
+				"listed_count": 10638,
+				"created_at": "Wed May 02 15:17:01 +0000 2007",
+				"favourites_count": 2653,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 209593,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5715752/1404719577",
+				"profile_link_color": "910202",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ich befürchte, in den USA könnten Luftpumpen bald Mangelware sein. https://t.co/98RRx8k3gZ"
+	},
+	{
 		"created_at": "Thu May 13 17:45:03 +0000 2021",
 		"id": 1392898698397589500,
 		"id_str": "1392898698397589511",
