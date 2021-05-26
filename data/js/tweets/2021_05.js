@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 16:20:55 +0000 2021",
+		"id": 1397226183419482000,
+		"id_str": "1397226183419482114",
+		"full_text": "@wunderbayer Ab 27.5. bei Kaufland. \n\nhttps://t.co/SgLSRQNN3p",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wunderbayer",
+					"name": "Erik",
+					"id": 14510685,
+					"id_str": "14510685",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SgLSRQNN3p",
+					"expanded_url": "https://www.handyraketen.de/itunes-karten-guenstiger_254/",
+					"display_url": "handyraketen.de/itunes-karten-…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1397221916432388000,
+		"in_reply_to_status_id_str": "1397221916432388103",
+		"in_reply_to_user_id": 14510685,
+		"in_reply_to_user_id_str": "14510685",
+		"in_reply_to_screen_name": "wunderbayer",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@wunderbayer Ab 27.5. bei Kaufland. \n\nhttps://t.co/SgLSRQNN3p"
+	},
+	{
+		"created_at": "Tue May 25 13:20:30 +0000 2021",
+		"id": 1397180780053504000,
+		"id_str": "1397180780053504001",
+		"full_text": "@DavePolaschek Cactus Blossoms are awesome. Here’s one of a friend. https://t.co/fwO9bQ0ip0",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavePolaschek",
+					"name": "Dave Polaschek",
+					"id": 2865684513,
+					"id_str": "2865684513",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397180762349244400,
+					"id_str": "1397180762349244418",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E2PIgDLWEAIKpfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2PIgDLWEAIKpfe.jpg",
+					"url": "https://t.co/fwO9bQ0ip0",
+					"display_url": "pic.twitter.com/fwO9bQ0ip0",
+					"expanded_url": "https://twitter.com/seiz/status/1397180780053504001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397180762349244400,
+					"id_str": "1397180762349244418",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E2PIgDLWEAIKpfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2PIgDLWEAIKpfe.jpg",
+					"url": "https://t.co/fwO9bQ0ip0",
+					"display_url": "pic.twitter.com/fwO9bQ0ip0",
+					"expanded_url": "https://twitter.com/seiz/status/1397180780053504001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397180763032936400,
+					"id_str": "1397180763032936455",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E2PIgFuWYAcA3ah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2PIgFuWYAcA3ah.jpg",
+					"url": "https://t.co/fwO9bQ0ip0",
+					"display_url": "pic.twitter.com/fwO9bQ0ip0",
+					"expanded_url": "https://twitter.com/seiz/status/1397180780053504001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1397160643086602200,
+		"in_reply_to_status_id_str": "1397160643086602244",
+		"in_reply_to_user_id": 2865684513,
+		"in_reply_to_user_id_str": "2865684513",
+		"in_reply_to_screen_name": "DavePolaschek",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DavePolaschek Cactus Blossoms are awesome. Here’s one of a friend. https://t.co/fwO9bQ0ip0"
+	},
+	{
+		"created_at": "Tue May 25 07:49:01 +0000 2021",
+		"id": 1397097355971793000,
+		"id_str": "1397097355971792896",
+		"full_text": "@ChristophKappes Es war kein IMO auch kein Gespräch. Der Interviewer hatte ein Ziel, das er verzweifelt erreichen wollte. Das hat er aber mangels Können nicht geschafft und ist sogar am Ende kläglich damit gescheitert \"es gibt ja genügend rechte Verlage…\" &lt;- das war unterirdisch.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChristophKappes",
+					"name": "Christoph Kappes",
+					"id": 19961453,
+					"id_str": "19961453",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1397096073051705300,
+		"in_reply_to_status_id_str": "1397096073051705345",
+		"in_reply_to_user_id": 19961453,
+		"in_reply_to_user_id_str": "19961453",
+		"in_reply_to_screen_name": "ChristophKappes",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@ChristophKappes Es war kein IMO auch kein Gespräch. Der Interviewer hatte ein Ziel, das er verzweifelt erreichen wollte. Das hat er aber mangels Können nicht geschafft und ist sogar am Ende kläglich damit gescheitert \"es gibt ja genügend rechte Verlage…\" &lt;- das war unterirdisch."
+	},
+	{
 		"created_at": "Sat May 22 15:05:15 +0000 2021",
 		"id": 1396119974310187000,
 		"id_str": "1396119974310187017",
