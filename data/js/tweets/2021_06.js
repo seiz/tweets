@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 19:04:37 +0000 2021",
+		"id": 1403427970916798500,
+		"id_str": "1403427970916798464",
+		"full_text": "Aber wie konnte sich auf dem Bild ein 🤡 einschleichen? https://t.co/AAp45VUjds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAp45VUjds",
+					"expanded_url": "https://twitter.com/POTUS/status/1403421661001568258",
+					"display_url": "twitter.com/POTUS/status/1…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403421661001568300,
+		"quoted_status_id_str": "1403421661001568258",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AAp45VUjds",
+			"expanded": "https://twitter.com/POTUS/status/1403421661001568258",
+			"display": "twitter.com/POTUS/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 11 18:39:32 +0000 2021",
+			"id": 1403421661001568300,
+			"id_str": "1403421661001568258",
+			"full_text": "Diplomacy is back. https://t.co/27D316PAqB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1403421659445481500,
+						"id_str": "1403421659445481480",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E3n0kElWUAghULk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3n0kElWUAghULk.jpg",
+						"url": "https://t.co/27D316PAqB",
+						"display_url": "pic.twitter.com/27D316PAqB",
+						"expanded_url": "https://twitter.com/POTUS/status/1403421661001568258/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1403421659445481500,
+						"id_str": "1403421659445481480",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E3n0kElWUAghULk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3n0kElWUAghULk.jpg",
+						"url": "https://t.co/27D316PAqB",
+						"display_url": "pic.twitter.com/27D316PAqB",
+						"expanded_url": "https://twitter.com/POTUS/status/1403421661001568258/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">The White House</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1349149096909668400,
+				"id_str": "1349149096909668363",
+				"name": "President Biden",
+				"screen_name": "POTUS",
+				"location": "",
+				"description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/IURuMIrzxb",
+				"url": "https://t.co/IxLjEB2zlE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IxLjEB2zlE",
+								"expanded_url": "http://WhiteHouse.gov",
+								"display_url": "WhiteHouse.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IURuMIrzxb",
+								"expanded_url": "http://whitehouse.gov/privacy",
+								"display_url": "whitehouse.gov/privacy",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11769560,
+				"friends_count": 12,
+				"listed_count": 11796,
+				"created_at": "Wed Jan 13 00:37:08 +0000 2021",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1349149096909668363/1622600490",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12681,
+			"favorite_count": 140287,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Aber wie konnte sich auf dem Bild ein 🤡 einschleichen? https://t.co/AAp45VUjds"
+	},
+	{
 		"created_at": "Thu Jun 10 11:24:16 +0000 2021",
 		"id": 1402949732775911400,
 		"id_str": "1402949732775911425",
