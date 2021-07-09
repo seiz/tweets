@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 09:08:47 +0000 2021",
+		"id": 1413062496739635200,
+		"id_str": "1413062496739635202",
+		"full_text": "@DasErste also das geht ja wohl gar nicht. Machen Sie keinen Fehler! https://t.co/IyM4Vu7PeH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DasErste",
+					"name": "Das Erste",
+					"id": 28964208,
+					"id_str": "28964208",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IyM4Vu7PeH",
+					"expanded_url": "https://twitter.com/NatalieAmiri/status/1413027450326593538",
+					"display_url": "twitter.com/NatalieAmiri/s…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 28964208,
+		"in_reply_to_user_id_str": "28964208",
+		"in_reply_to_screen_name": "DasErste",
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 136,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413027450326593500,
+		"quoted_status_id_str": "1413027450326593538",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IyM4Vu7PeH",
+			"expanded": "https://twitter.com/NatalieAmiri/status/1413027450326593538",
+			"display": "twitter.com/NatalieAmiri/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 08 06:49:31 +0000 2021",
+			"id": 1413027450326593500,
+			"id_str": "1413027450326593538",
+			"full_text": "Ja, manchmal könnte ich vor Wut heulen. @Weltspiegel_ARD soll auf Montag nach Tagesthemen verlegt werden. Was ist mit dem Bildungsauftrag? Sollen junge Menschen um 22:45 Uhr Fernsehen? Es ist das LETZTE ARD Auslandsformat. Und ZuschauerInnen wollen laut #Zukunftsdialog Ausland! https://t.co/s05sQ9wq6r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Zukunftsdialog",
+						"indices": [
+							254,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Weltspiegel_ARD",
+						"name": "Weltspiegel",
+						"id": 1261626800,
+						"id_str": "1261626800",
+						"indices": [
+							40,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/s05sQ9wq6r",
+						"expanded_url": "https://twitter.com/uedio/status/1412874430028685314",
+						"display_url": "twitter.com/uedio/status/1…",
+						"indices": [
+							279,
+							302
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104228543,
+				"id_str": "104228543",
+				"name": "Natalie Amiri",
+				"screen_name": "NatalieAmiri",
+				"location": "Tehran- Munich",
+				"description": "Int. Correspondent ARD @DasErste German Television - 2015-2020 Iran/Tehran ARD bureau chief - Anchorwoman @Weltspiegel_ARD Autorin: \"Zwischen den Welten\"",
+				"url": "https://t.co/YdW1gisgPN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YdW1gisgPN",
+								"expanded_url": "https://www.instagram.com/natalie_amiri/",
+								"display_url": "instagram.com/natalie_amiri/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36979,
+				"friends_count": 825,
+				"listed_count": 451,
+				"created_at": "Tue Jan 12 18:02:27 +0000 2010",
+				"favourites_count": 1622,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12105,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011516449754673152/dCOfJS1l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011516449754673152/dCOfJS1l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104228543/1585598981",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1412874430028685300,
+			"quoted_status_id_str": "1412874430028685314",
+			"quoted_status_permalink": {
+				"url": "https://t.co/s05sQ9wq6r",
+				"expanded": "https://twitter.com/uedio/status/1412874430028685314",
+				"display": "twitter.com/uedio/status/1…"
+			},
+			"retweet_count": 693,
+			"favorite_count": 4108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@DasErste also das geht ja wohl gar nicht. Machen Sie keinen Fehler! https://t.co/IyM4Vu7PeH"
+	},
+	{
 		"created_at": "Tue Jul 06 21:54:48 +0000 2021",
 		"id": 1412530497247273000,
 		"id_str": "1412530497247272962",
