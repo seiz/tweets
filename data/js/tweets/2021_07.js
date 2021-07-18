@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 18:39:53 +0000 2021",
+		"id": 1416467708628045800,
+		"id_str": "1416467708628045829",
+		"full_text": "Er kennt also Herz. Vom Hörensagen.  Wer schreibt dieser Sprechpuppe solchen Müll? Vermutlich er selbst. https://t.co/VUFgW3PZKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUFgW3PZKP",
+					"expanded_url": "https://twitter.com/ArminLaschet/status/1416449185172369411",
+					"display_url": "twitter.com/ArminLaschet/s…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 136,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1416449185172369400,
+		"quoted_status_id_str": "1416449185172369411",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VUFgW3PZKP",
+			"expanded": "https://twitter.com/ArminLaschet/status/1416449185172369411",
+			"display": "twitter.com/ArminLaschet/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 17 17:26:16 +0000 2021",
+			"id": 1416449185172369400,
+			"id_str": "1416449185172369411",
+			"full_text": "Ich danke dem Bundespräsidenten für seinen Besuch. Uns liegt das Schicksal der Betroffenen am Herzen, von dem wir in vielen Gesprächen gehört haben. Umso mehr bedauere ich den Eindruck, der durch eine Gesprächssituation entstanden ist. Dies war unpassend und es tut mir leid.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835541664,
+				"id_str": "835541664",
+				"name": "Armin Laschet",
+				"screen_name": "ArminLaschet",
+				"location": "Aachen / Düsseldorf / Berlin",
+				"description": "Ministerpräsident von Nordrhein-Westfalen.\nVorsitzender der CDU Deutschlands.\nKanzlerkandidat der Union.",
+				"url": "https://t.co/VuTNkQ7RWf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VuTNkQ7RWf",
+								"expanded_url": "http://www.armin-laschet.de/",
+								"display_url": "armin-laschet.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 162759,
+				"friends_count": 1195,
+				"listed_count": 1100,
+				"created_at": "Thu Sep 20 13:13:25 +0000 2012",
+				"favourites_count": 2424,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15777,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E2D2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1388828015283556352/1spR1_jR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388828015283556352/1spR1_jR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/835541664/1500037910",
+				"profile_link_color": "E95D0F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 544,
+			"favorite_count": 4617,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Er kennt also Herz. Vom Hörensagen.  Wer schreibt dieser Sprechpuppe solchen Müll? Vermutlich er selbst. https://t.co/VUFgW3PZKP"
+	},
+	{
 		"created_at": "Fri Jul 16 12:17:43 +0000 2021",
 		"id": 1416009146252599300,
 		"id_str": "1416009146252599296",
