@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 09:38:48 +0000 2021",
+		"id": 1418143482611392500,
+		"id_str": "1418143482611392512",
+		"full_text": "Unfassbar. 77 Enthaltungen. Wofür wählen wir solche Leute? https://t.co/k7L0lXqBui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k7L0lXqBui",
+					"expanded_url": "https://twitter.com/hhoeppe/status/1417962793408532482",
+					"display_url": "twitter.com/hhoeppe/status…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 136,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417962793408532500,
+		"quoted_status_id_str": "1417962793408532482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k7L0lXqBui",
+			"expanded": "https://twitter.com/hhoeppe/status/1417962793408532482",
+			"display": "twitter.com/hhoeppe/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 21 21:40:49 +0000 2021",
+			"id": 1417962793408532500,
+			"id_str": "1417962793408532482",
+			"full_text": "Viele schauen nach #Thüringen.\n\nUnterdessen wird in #BadenWürttemberg der Kandidat der #noafd ins Verfassungsgericht von BW gewählt.\n\n37 Ja\n32 Nein\n77 Enthaltungen\n\n🤬\n\nhttps://t.co/uyst9LJ9kU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Thüringen",
+						"indices": [
+							19,
+							29
+						]
+					},
+					{
+						"text": "BadenWürttemberg",
+						"indices": [
+							52,
+							69
+						]
+					},
+					{
+						"text": "noafd",
+						"indices": [
+							87,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uyst9LJ9kU",
+						"expanded_url": "https://www.stuttgarter-zeitung.de/inhalt.bert-matthias-gaertner-landtag-waehlt-afd-kandidaten-in-verfassungsgericht.60e3cb7b-dcad-47de-a83d-1f45d20aae19.html",
+						"display_url": "stuttgarter-zeitung.de/inhalt.bert-ma…",
+						"indices": [
+							168,
+							191
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 871399370163466200,
+				"id_str": "871399370163466240",
+				"name": "🔴 Henning Höppe 🏳️‍🌈💉💉",
+				"screen_name": "hhoeppe",
+				"location": "Deutschland",
+				"description": "Privatkonto, rt≠Zustimmung, #Chemie|professor, #LSBTIQ 🏳️‍🌈🇪🇺, #DL21, #ResilienteGesellschaft, geb. @ 328 ppm CO₂, unabhängiger, demokratischer #Sozialist",
+				"url": "https://t.co/gfVxuCiDoM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gfVxuCiDoM",
+								"expanded_url": "http://henning-hoeppe.eu/positionen/",
+								"display_url": "henning-hoeppe.eu/positionen/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5774,
+				"friends_count": 3344,
+				"listed_count": 29,
+				"created_at": "Sun Jun 04 16:12:54 +0000 2017",
+				"favourites_count": 73940,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40123,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407729708779937794/shQc0Qce_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407729708779937794/shQc0Qce_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/871399370163466240/1593793343",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 622,
+			"favorite_count": 1295,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Unfassbar. 77 Enthaltungen. Wofür wählen wir solche Leute? https://t.co/k7L0lXqBui"
+	},
+	{
 		"created_at": "Mon Jul 19 13:09:21 +0000 2021",
 		"id": 1417109304025419800,
 		"id_str": "1417109304025419776",
