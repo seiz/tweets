@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 20:01:43 +0000 2021",
+		"id": 1424091842019315700,
+		"id_str": "1424098451441295362",
+		"full_text": "• Perscheid wird uns fehlen. https://t.co/Y9BtS9BkaU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1424091813875437600,
+					"id_str": "1424091813875437571",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Nj9aWWUAMOHN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Nj9aWWUAMOHN6.jpg",
+					"url": "https://t.co/Y9BtS9BkaU",
+					"display_url": "pic.twitter.com/Y9BtS9BkaU",
+					"expanded_url": "https://twitter.com/peterglaser/status/1424091842019315715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 295,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 295,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 295,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424091813875437600,
+					"id_str": "1424091813875437571",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Nj9aWWUAMOHN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Nj9aWWUAMOHN6.jpg",
+					"url": "https://t.co/Y9BtS9BkaU",
+					"display_url": "pic.twitter.com/Y9BtS9BkaU",
+					"expanded_url": "https://twitter.com/peterglaser/status/1424091842019315715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 295,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 295,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 295,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 67278209,
+			"id_str": "67278209",
+			"name": "Peter Glaser",
+			"screen_name": "peterglaser",
+			"location": "Berlin",
+			"description": "Ich schreibe.",
+			"url": "https://t.co/QhiMTnVSqE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QhiMTnVSqE",
+							"expanded_url": "https://www.nzz.ch/meinung/kolumnen/glaserei/",
+							"display_url": "nzz.ch/meinung/kolumn…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11478,
+			"friends_count": 2483,
+			"listed_count": 495,
+			"created_at": "Thu Aug 20 10:06:30 +0000 2009",
+			"favourites_count": 8468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "023755",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/372004147/peterglaser_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/372004147/peterglaser_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/67278209/1397056064",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "AAA011",
+			"profile_sidebar_fill_color": "AAEEFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 71,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "• Perscheid wird uns fehlen. https://t.co/Y9BtS9BkaU"
+	},
+	{
 		"created_at": "Fri Aug 06 07:37:46 +0000 2021",
 		"id": 1423548838955135000,
 		"id_str": "1423548838955134976",
