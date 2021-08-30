@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 29 18:47:18 +0000 2021",
+		"id": 1432052252987076600,
+		"id_str": "1432052252987076615",
+		"full_text": "Kindheitserinnerungen. https://t.co/2Py9uzA1rI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Py9uzA1rI",
+					"expanded_url": "https://twitter.com/MikeTRose/status/1432047600220442632",
+					"display_url": "twitter.com/MikeTRose/stat…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 136,
+			"listed_count": 0,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1432047600220442600,
+		"quoted_status_id_str": "1432047600220442632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2Py9uzA1rI",
+			"expanded": "https://twitter.com/MikeTRose/status/1432047600220442632",
+			"display": "twitter.com/MikeTRose/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 29 18:28:48 +0000 2021",
+			"id": 1432047600220442600,
+			"id_str": "1432047600220442632",
+			"full_text": "Damn. Rest easy, Ed.  https://t.co/iQmWyKp0xH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iQmWyKp0xH",
+						"expanded_url": "https://www.nytimes.com/2021/08/29/arts/television/ed-asner-dead.html?referringSource=articleShare",
+						"display_url": "nytimes.com/2021/08/29/art…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1777681,
+				"id_str": "1777681",
+				"name": "Michael T. Rose",
+				"screen_name": "MikeTRose",
+				"location": "40.736402,-73.993365",
+				"description": "TA leader @salesforce, cohost @the_aftershow, spouse of @heidihoover (rabbi at @bshert_brooklyn) & dad. @TUAW 2006-2015. Tweets my own, not employer's. (he/him)",
+				"url": "https://t.co/LLsYqRPjzD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LLsYqRPjzD",
+								"expanded_url": "http://www.aftershowpodcast.com",
+								"display_url": "aftershowpodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7482,
+				"friends_count": 7040,
+				"listed_count": 475,
+				"created_at": "Wed Mar 21 18:12:19 +0000 2007",
+				"favourites_count": 337800,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 103517,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987807509992751104/gMmyyC22_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987807509992751104/gMmyyC22_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1777681/1599500581",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Kindheitserinnerungen. https://t.co/2Py9uzA1rI"
+	},
+	{
 		"created_at": "Sat Aug 28 11:07:02 +0000 2021",
 		"id": 1431574038158131200,
 		"id_str": "1431574038158131201",
