@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 15:56:28 +0000 2021",
+		"id": 1433458816746729500,
+		"id_str": "1433458816746729478",
+		"full_text": "Na siehste, so schlecht ist die DSGVO doch gar nicht. https://t.co/D15sVcVFpq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D15sVcVFpq",
+					"expanded_url": "https://twitter.com/zeitonline/status/1433458332279377922",
+					"display_url": "twitter.com/zeitonline/sta…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 136,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1433458332279378000,
+		"quoted_status_id_str": "1433458332279377922",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D15sVcVFpq",
+			"expanded": "https://twitter.com/zeitonline/status/1433458332279377922",
+			"display": "twitter.com/zeitonline/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 02 15:54:33 +0000 2021",
+			"id": 1433458332279378000,
+			"id_str": "1433458332279377922",
+			"full_text": "#Rekordstrafe für #Whatsapp: Wegen Verstößen gegen die #DSGVO soll das Unternhemen in Irland 225 Millionen Euro zahlen. https://t.co/TGBsOk350P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Rekordstrafe",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"text": "Whatsapp",
+						"indices": [
+							18,
+							27
+						]
+					},
+					{
+						"text": "DSGVO",
+						"indices": [
+							55,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TGBsOk350P",
+						"expanded_url": "https://www.zeit.de/digital/2021-09/whatsapp-irland-bussgeld-rekordstrafe-datenschutz-millionen-facebook?wt_zmc=sm.int.zonaudev.twitter.ref.zeitde.redpost.link.x&utm_medium=sm&utm_source=twitter_zonaudev_int&utm_campaign=ref&utm_content=zeitde_redpost_link_x",
+						"display_url": "zeit.de/digital/2021-0…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.zeit.de\" rel=\"nofollow\">ZEITonline</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5715752,
+				"id_str": "5715752",
+				"name": "ZEIT ONLINE",
+				"screen_name": "zeitonline",
+				"location": "Berlin und Hamburg, Germany",
+				"description": "Ja, das ist unser offizieller Twitter-Account. Hier bekommen Sie die wichtigsten Geschichten und aktuelle News. || Impressum: https://t.co/HsU5BwJnJk",
+				"url": "http://t.co/zzdcZCBgYn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zzdcZCBgYn",
+								"expanded_url": "http://www.zeit.de",
+								"display_url": "zeit.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HsU5BwJnJk",
+								"expanded_url": "http://www.zeit.de/impressum",
+								"display_url": "zeit.de/impressum",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2354933,
+				"friends_count": 24,
+				"listed_count": 10716,
+				"created_at": "Wed May 02 15:17:01 +0000 2007",
+				"favourites_count": 2706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 217193,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035110680377155584/FqlSG-IN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5715752/1404719577",
+				"profile_link_color": "910202",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Na siehste, so schlecht ist die DSGVO doch gar nicht. https://t.co/D15sVcVFpq"
+	},
+	{
 		"created_at": "Wed Sep 01 07:17:29 +0000 2021",
 		"id": 1432965818535514000,
 		"id_str": "1432965818535514114",
