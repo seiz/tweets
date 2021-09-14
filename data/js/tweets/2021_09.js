@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 12:50:15 +0000 2021",
+		"id": 1437398219227639800,
+		"id_str": "1437398219227639822",
+		"full_text": "TE übERNImmt https://t.co/777I5QCgtO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/777I5QCgtO",
+					"expanded_url": "https://twitter.com/ernielectronics/status/1437379948109606912",
+					"display_url": "twitter.com/ernielectronic…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437379948109607000,
+		"quoted_status_id_str": "1437379948109606912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/777I5QCgtO",
+			"expanded": "https://twitter.com/ernielectronics/status/1437379948109606912",
+			"display": "twitter.com/ernielectronic…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 13 11:37:39 +0000 2021",
+			"id": 1437379948109607000,
+			"id_str": "1437379948109606912",
+			"full_text": "ERNI Group AG is now part of TE Connectivity!\nWe are looking forward to this new and exciting chapter. https://t.co/x2mJxo9Tu6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x2mJxo9Tu6",
+						"expanded_url": "https://twitter.com/TEConnectivity/status/1437294978355630084",
+						"display_url": "twitter.com/TEConnectivity…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18937603,
+				"id_str": "18937603",
+				"name": "ERNI Electronics",
+				"screen_name": "ernielectronics",
+				"location": "Switzerland, Germany, USA and Asia",
+				"description": "Steckverbinder, Connectors, Cable Assembly, Housings, Tools and System Technology",
+				"url": "https://t.co/aQTTdG4iOj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aQTTdG4iOj",
+								"expanded_url": "https://www.erni.com/en/company/imprint/",
+								"display_url": "erni.com/en/company/imp…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 951,
+				"friends_count": 356,
+				"listed_count": 21,
+				"created_at": "Tue Jan 13 13:20:56 +0000 2009",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 235,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "007DB3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1463347540/erni_electronics_connector_72dpi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463347540/erni_electronics_connector_72dpi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18937603/1561640537",
+				"profile_link_color": "008FD1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C5D9E8",
+				"profile_text_color": "007DB3",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1437294978355630000,
+			"quoted_status_id_str": "1437294978355630084",
+			"quoted_status_permalink": {
+				"url": "https://t.co/x2mJxo9Tu6",
+				"expanded": "https://twitter.com/TEConnectivity/status/1437294978355630084",
+				"display": "twitter.com/TEConnectivity…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "TE übERNImmt https://t.co/777I5QCgtO"
+	},
+	{
 		"created_at": "Sun Sep 12 16:41:30 +0000 2021",
 		"id": 1437094024645693400,
 		"id_str": "1437094024645693449",
