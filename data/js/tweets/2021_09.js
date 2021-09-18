@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 23:52:08 +0000 2021",
+		"id": 1439014340355575800,
+		"id_str": "1439014340355575811",
+		"full_text": "Dieser Mann hat den Bogen raus. Respekt! https://t.co/XjIHs2pSf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XjIHs2pSf2",
+					"expanded_url": "https://twitter.com/kottke/status/1438953664136232960",
+					"display_url": "twitter.com/kottke/status/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 135,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438953664136233000,
+		"quoted_status_id_str": "1438953664136232960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XjIHs2pSf2",
+			"expanded": "https://twitter.com/kottke/status/1438953664136232960",
+			"display": "twitter.com/kottke/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 17 19:51:02 +0000 2021",
+			"id": 1438953664136233000,
+			"id_str": "1438953664136232960",
+			"full_text": "An intentionally homeless traveling shepherd gives a fascinating tour of all the little gadgets &amp; techniques he uses to stay warm, healthy, and happy. Screw preppers &amp; vanlife, this guy is the real deal. https://t.co/0oVumRDtOM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0oVumRDtOM",
+						"expanded_url": "https://kottke.org/21/09/guerilla-grazing-and-ingenious-off-grid-living",
+						"display_url": "kottke.org/21/09/guerilla…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://kottke.org\" rel=\"nofollow\">kottke tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14120215,
+				"id_str": "14120215",
+				"name": "kottke.org",
+				"screen_name": "kottke",
+				"location": "New York, NY",
+				"description": "Something interesting every day from one of the oldest & best independent sites on the Web. Est. 1998.",
+				"url": "http://t.co/M4uA95p20W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M4uA95p20W",
+								"expanded_url": "http://www.kottke.org",
+								"display_url": "kottke.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53732,
+				"friends_count": 86,
+				"listed_count": 2503,
+				"created_at": "Tue Mar 11 04:09:10 +0000 2008",
+				"favourites_count": 751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23877,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775300604646359040/6mkGOPp0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775300604646359040/6mkGOPp0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14120215/1527515276",
+				"profile_link_color": "CC5C19",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Dieser Mann hat den Bogen raus. Respekt! https://t.co/XjIHs2pSf2"
+	},
+	{
 		"created_at": "Mon Sep 13 12:50:15 +0000 2021",
 		"id": 1437398219227639800,
 		"id_str": "1437398219227639822",
