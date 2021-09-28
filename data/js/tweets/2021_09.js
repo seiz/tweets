@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 27 08:22:42 +0000 2021",
+		"id": 1442381082528206800,
+		"id_str": "1442404319215685634",
+		"full_text": "gumo Jugend.thx für das klare Ja zum Trickle Down,Klimarettung durch Technologie und Märkte,Steuerbefreiung ab 500k, Ausbau der Sicherheit durch die Waffenindustrie.Freie Fahrt für freie Bürger.Leistung, Sport, fairer Wettbewerb,Faustkampf, Zäpfchen, Klistir, so, zurück zur Börse https://t.co/gimhbQzZvQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gimhbQzZvQ",
+					"expanded_url": "https://twitter.com/tagesschau/status/1442201629873225731",
+					"display_url": "twitter.com/tagesschau/sta…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35257717,
+			"id_str": "35257717",
+			"name": "sibylle berg",
+			"screen_name": "SibylleBerg",
+			"location": "schweiz",
+			"description": "Autor*in, they/them. Kaufe nix! Ficke keinen!  https://t.co/Ih5i0Iebcn  und https://t.co/BmBHnFgKdb",
+			"url": "http://t.co/Sme7di245O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sme7di245O",
+							"expanded_url": "http://www.sibylleberg.ch",
+							"display_url": "sibylleberg.ch",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ih5i0Iebcn",
+							"expanded_url": "http://sibylleberg.com",
+							"display_url": "sibylleberg.com",
+							"indices": [
+								47,
+								70
+							]
+						},
+						{
+							"url": "https://t.co/BmBHnFgKdb",
+							"expanded_url": "http://konsum.sibylleberg.com/products",
+							"display_url": "konsum.sibylleberg.com/products",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 134834,
+			"friends_count": 8361,
+			"listed_count": 1180,
+			"created_at": "Sat Apr 25 17:08:09 +0000 2009",
+			"favourites_count": 27314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353414243794751491/K3oUPU5G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353414243794751491/K3oUPU5G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35257717/1559122445",
+			"profile_link_color": "990A00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442201629873225700,
+		"quoted_status_id_str": "1442201629873225731",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gimhbQzZvQ",
+			"expanded": "https://twitter.com/tagesschau/status/1442201629873225731",
+			"display": "twitter.com/tagesschau/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 26 18:57:18 +0000 2021",
+			"id": 1442201629873225700,
+			"id_str": "1442201629873225731",
+			"full_text": "Stimmanteile bei Erstwählenden: Mit 23 Prozent der Stimmen ist die FDP laut Infratest dimap die erfolgreichste Partei in dieser Gruppe. Danach folgen Grüne, SPD und Union vor der Linken und der AfD. #btw21 https://t.co/cgk7tl0cJS https://t.co/rnCwA3YNYu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "btw21",
+						"indices": [
+							199,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cgk7tl0cJS",
+						"expanded_url": "https://tsde.li/wahlverhalten-nach-alter",
+						"display_url": "tsde.li/wahlverhalten-…",
+						"indices": [
+							206,
+							229
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1442201612076814300,
+						"id_str": "1442201612076814341",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/FAO6uZ5VkAUdSPJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAO6uZ5VkAUdSPJ.jpg",
+						"url": "https://t.co/rnCwA3YNYu",
+						"display_url": "pic.twitter.com/rnCwA3YNYu",
+						"expanded_url": "https://twitter.com/tagesschau/status/1442201629873225731/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1442201612076814300,
+						"id_str": "1442201612076814341",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/FAO6uZ5VkAUdSPJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAO6uZ5VkAUdSPJ.jpg",
+						"url": "https://t.co/rnCwA3YNYu",
+						"display_url": "pic.twitter.com/rnCwA3YNYu",
+						"expanded_url": "https://twitter.com/tagesschau/status/1442201629873225731/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5734902,
+				"id_str": "5734902",
+				"name": "tagesschau",
+				"screen_name": "tagesschau",
+				"location": "Hamburg",
+				"description": "Schlagzeilen von https://t.co/sUyyRPnseF - Rückfragen an https://t.co/qvffY6fJge",
+				"url": "https://t.co/a6ctO2BwCG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a6ctO2BwCG",
+								"expanded_url": "http://www.tagesschau.de/impressum/",
+								"display_url": "tagesschau.de/impressum/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sUyyRPnseF",
+								"expanded_url": "http://tagesschau.de",
+								"display_url": "tagesschau.de",
+								"indices": [
+									17,
+									40
+								]
+							},
+							{
+								"url": "https://t.co/qvffY6fJge",
+								"expanded_url": "https://www.tagesschau.de/mehr/kontakt/kontakt-uebersicht-101.html",
+								"display_url": "tagesschau.de/mehr/kontakt/k…",
+								"indices": [
+									57,
+									80
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3095292,
+				"friends_count": 321,
+				"listed_count": 9778,
+				"created_at": "Thu May 03 08:42:42 +0000 2007",
+				"favourites_count": 3578,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 214866,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5985DF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/531688614640365568/U84uXoIT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/531688614640365568/U84uXoIT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5734902/1619599201",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2EBF7",
+				"profile_text_color": "00044B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 704,
+			"favorite_count": 4686,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 389,
+		"favorite_count": 3468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "gumo Jugend.thx für das klare Ja zum Trickle Down,Klimarettung durch Technologie und Märkte,Steuerbefreiung ab 500k, Ausbau der Sicherheit durch die Waffenindustrie.Freie Fahrt für freie Bürger.Leistung, Sport, fairer Wettbewerb,Faustkampf, Zäpfchen, Klistir, so, zurück zur Börse https://t.co/gimhbQzZvQ"
+	},
+	{
 		"created_at": "Sun Sep 26 09:24:08 +0000 2021",
 		"id": 1442057388559769600,
 		"id_str": "1442057388559769605",
