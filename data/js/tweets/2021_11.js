@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 14:50:44 +0000 2021",
+		"id": 1458447034609021000,
+		"id_str": "1458447034609020932",
+		"full_text": "👏 https://t.co/qXP0spZ6FT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qXP0spZ6FT",
+					"expanded_url": "https://twitter.com/coronawarnapp/status/1458389723609812997",
+					"display_url": "twitter.com/coronawarnapp/…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 132,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458389723609813000,
+		"quoted_status_id_str": "1458389723609812997",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qXP0spZ6FT",
+			"expanded": "https://twitter.com/coronawarnapp/status/1458389723609812997",
+			"display": "twitter.com/coronawarnapp/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 10 11:03:00 +0000 2021",
+			"id": 1458389723609813000,
+			"id_str": "1458389723609812997",
+			"full_text": "🆕Viele Nutzende der #CoronaWarnApp haben sich gewünscht, sich auch mit dem QR-Code der luca-App bei Events/an Orten einchecken zu können. Das ist jetzt möglich.\n\nFür die #CWA ändert sich nichts. Sie bleibt datensparsam, dezentral, pseudonym.\n\nFAQ\n➡️https://t.co/6IwpVvxmVc\n(1/4) https://t.co/MG5wje0oFU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoronaWarnApp",
+						"indices": [
+							20,
+							34
+						]
+					},
+					{
+						"text": "CWA",
+						"indices": [
+							170,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6IwpVvxmVc",
+						"expanded_url": "https://www.coronawarn.app/de/blog/2021-11-09-cwa-luca-qr-codes/",
+						"display_url": "coronawarn.app/de/blog/2021-1…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1458389719222476800,
+						"id_str": "1458389719222476804",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FD09uQZWYAQY8q_.png",
+						"media_url_https": "https://pbs.twimg.com/media/FD09uQZWYAQY8q_.png",
+						"url": "https://t.co/MG5wje0oFU",
+						"display_url": "pic.twitter.com/MG5wje0oFU",
+						"expanded_url": "https://twitter.com/coronawarnapp/status/1458389723609812997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1458389719222476800,
+						"id_str": "1458389719222476804",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FD09uQZWYAQY8q_.png",
+						"media_url_https": "https://pbs.twimg.com/media/FD09uQZWYAQY8q_.png",
+						"url": "https://t.co/MG5wje0oFU",
+						"display_url": "pic.twitter.com/MG5wje0oFU",
+						"expanded_url": "https://twitter.com/coronawarnapp/status/1458389723609812997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1458389719247691800,
+						"id_str": "1458389719247691781",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FD09uQfXIAUkLoW.png",
+						"media_url_https": "https://pbs.twimg.com/media/FD09uQfXIAUkLoW.png",
+						"url": "https://t.co/MG5wje0oFU",
+						"display_url": "pic.twitter.com/MG5wje0oFU",
+						"expanded_url": "https://twitter.com/coronawarnapp/status/1458389723609812997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1458389719226716200,
+						"id_str": "1458389719226716164",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FD09uQaXEAQtTM9.png",
+						"media_url_https": "https://pbs.twimg.com/media/FD09uQaXEAQtTM9.png",
+						"url": "https://t.co/MG5wje0oFU",
+						"display_url": "pic.twitter.com/MG5wje0oFU",
+						"expanded_url": "https://twitter.com/coronawarnapp/status/1458389723609812997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1458389719205785600,
+						"id_str": "1458389719205785600",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FD09uQVXsAActW_.png",
+						"media_url_https": "https://pbs.twimg.com/media/FD09uQVXsAActW_.png",
+						"url": "https://t.co/MG5wje0oFU",
+						"display_url": "pic.twitter.com/MG5wje0oFU",
+						"expanded_url": "https://twitter.com/coronawarnapp/status/1458389723609812997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1399384601366352000,
+				"id_str": "1399384601366351874",
+				"name": "Corona-Warn-App",
+				"screen_name": "coronawarnapp",
+				"location": "Berlin",
+				"description": "News und Hintergründe rund um die offizielle App der Bundesregierung.\nEs twittern die Projektpartner Robert Koch-Institut (Hrsg.), SAP und Deutsche Telekom.",
+				"url": "https://t.co/jFNMPCMfwx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jFNMPCMfwx",
+								"expanded_url": "http://rki.de/impressum",
+								"display_url": "rki.de/impressum",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20723,
+				"friends_count": 123,
+				"listed_count": 100,
+				"created_at": "Mon May 31 15:18:07 +0000 2021",
+				"favourites_count": 984,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 658,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399656144872824834/yn9IWDD7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399656144872824834/yn9IWDD7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1399384601366351874/1635329871",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 367,
+			"favorite_count": 1403,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👏 https://t.co/qXP0spZ6FT"
+	},
+	{
 		"created_at": "Tue Nov 09 17:35:37 +0000 2021",
 		"id": 1458126142951592000,
 		"id_str": "1458126142951591942",
