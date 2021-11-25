@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 19:45:44 +0000 2021",
+		"id": 1463594705309032400,
+		"id_str": "1463594705309032454",
+		"full_text": "Braucht man. Wenn man kocht. https://t.co/PLFfXChWqN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PLFfXChWqN",
+					"expanded_url": "https://twitter.com/DanFrakes/status/1463565236435251209",
+					"display_url": "twitter.com/DanFrakes/stat…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 133,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463565236435251200,
+		"quoted_status_id_str": "1463565236435251209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PLFfXChWqN",
+			"expanded": "https://twitter.com/DanFrakes/status/1463565236435251209",
+			"display": "twitter.com/DanFrakes/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 24 17:48:38 +0000 2021",
+			"id": 1463565236435251200,
+			"id_str": "1463565236435251209",
+			"full_text": "Big sale on Paprika Recipe Manager for all platforms. Been using it for years. https://t.co/wEZtfIBcF5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wEZtfIBcF5",
+						"expanded_url": "https://www.paprikaapp.com/",
+						"display_url": "paprikaapp.com",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8259712,
+				"id_str": "8259712",
+				"name": "Dan Frakes",
+				"screen_name": "DanFrakes",
+				"location": "San Francisco Bay Area",
+				"description": "Fruit Editor (form. @wirecutter/@nytimes, @macworld), form. policy analyst. Pro-science. Tech; Chicago & Bay Area sports; dad; https://t.co/LiJ7dVHS8X; UCLA. Personal acct.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LiJ7dVHS8X",
+								"expanded_url": "http://IMSA.edu",
+								"display_url": "IMSA.edu",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14401,
+				"friends_count": 1040,
+				"listed_count": 1140,
+				"created_at": "Sat Aug 18 03:37:04 +0000 2007",
+				"favourites_count": 5627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 52761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D2C9B7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/535150744278536192/AjmmxNKC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/535150744278536192/AjmmxNKC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8259712/1416424783",
+				"profile_link_color": "9B3A3A",
+				"profile_sidebar_border_color": "8C6133",
+				"profile_sidebar_fill_color": "FFFECB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Braucht man. Wenn man kocht. https://t.co/PLFfXChWqN"
+	},
+	{
 		"created_at": "Mon Nov 22 21:26:20 +0000 2021",
 		"id": 1462895247067959300,
 		"id_str": "1462895247067959309",
