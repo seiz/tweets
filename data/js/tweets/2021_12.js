@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 12:53:10 +0000 2021",
+		"id": 1472912961534574600,
+		"id_str": "1472912961534574594",
+		"full_text": "Zum Stream bitte ab 27.12. hier entlang: https://t.co/YfGirPUviS https://t.co/6gQaJOn7LK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YfGirPUviS",
+					"expanded_url": "https://lnk.to/CWLhye6y",
+					"display_url": "lnk.to/CWLhye6y",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/6gQaJOn7LK",
+					"expanded_url": "https://twitter.com/Linuzifer/status/1471481304361447430",
+					"display_url": "twitter.com/Linuzifer/stat…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 133,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471481304361447400,
+		"quoted_status_id_str": "1471481304361447430",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6gQaJOn7LK",
+			"expanded": "https://twitter.com/Linuzifer/status/1471481304361447430",
+			"display": "twitter.com/Linuzifer/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 16 14:04:16 +0000 2021",
+			"id": 1471481304361447400,
+			"id_str": "1471481304361447430",
+			"full_text": "\"Alles ist Eins. Ausser der 0.”\nerscheint am 27.12.21 auf DVD.\nVorbestellen jetzt möglich:\nhttps://t.co/CqKUGxVGgE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CqKUGxVGgE",
+						"expanded_url": "https://www.goodmovies.de/alles-ist-eins-ausser-der-0.html",
+						"display_url": "goodmovies.de/alles-ist-eins…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49579575,
+				"id_str": "49579575",
+				"name": "linuzifer",
+				"screen_name": "Linuzifer",
+				"location": "Berlin",
+				"description": "Ein Teil von jener Kraft, die stets das Böse will und stets das Gute schafft.\nSpaßbieter werden gnadenlos angezeigt.\n(he/him)\nhttps://t.co/C0bofaQQC2",
+				"url": "https://t.co/iw9NhFrq1I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iw9NhFrq1I",
+								"expanded_url": "http://logbuch-netzpolitik.de/",
+								"display_url": "logbuch-netzpolitik.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/C0bofaQQC2",
+								"expanded_url": "http://linus-neumann.de",
+								"display_url": "linus-neumann.de",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 52438,
+				"friends_count": 3749,
+				"listed_count": 523,
+				"created_at": "Mon Jun 22 09:05:45 +0000 2009",
+				"favourites_count": 10539,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23883,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3220414568/a08a8661d87d99da663c7c917ca294a8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3220414568/a08a8661d87d99da663c7c917ca294a8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49579575/1637053462",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 451,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Zum Stream bitte ab 27.12. hier entlang: https://t.co/YfGirPUviS https://t.co/6gQaJOn7LK"
+	},
+	{
 		"created_at": "Sat Dec 18 19:43:25 +0000 2021",
 		"id": 1472291431872184300,
 		"id_str": "1472291431872184320",
