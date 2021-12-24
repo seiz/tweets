@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 23 22:13:29 +0000 2021",
+		"id": 1473715769464823800,
+		"id_str": "1474141135509540875",
+		"full_text": "Forget fintechs. This is actual innovation: https://t.co/H5EY3QqIko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1473715766302285800,
+					"id_str": "1473715766302285836",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FHOwrm5XIAwwJkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHOwrm5XIAwwJkY.jpg",
+					"url": "https://t.co/H5EY3QqIko",
+					"display_url": "pic.twitter.com/H5EY3QqIko",
+					"expanded_url": "https://twitter.com/brandonleehoop/status/1473715769464823808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1706,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473715766302285800,
+					"id_str": "1473715766302285836",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/FHOwrm5XIAwwJkY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHOwrm5XIAwwJkY.jpg",
+					"url": "https://t.co/H5EY3QqIko",
+					"display_url": "pic.twitter.com/H5EY3QqIko",
+					"expanded_url": "https://twitter.com/brandonleehoop/status/1473715769464823808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1706,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 307958828,
+			"id_str": "307958828",
+			"name": "Brandon Lee Hoop",
+			"screen_name": "brandonleehoop",
+			"location": "London, England",
+			"description": "Digital c-level strategist in advertising focused on sustainability. Fan of contemporary culture. Amsterdam, NL and London, UK.",
+			"url": "https://t.co/WyUn62YZDn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WyUn62YZDn",
+							"expanded_url": "https://www.linkedin.com/in/brandonleehoop/",
+							"display_url": "linkedin.com/in/brandonleeh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1701,
+			"friends_count": 1312,
+			"listed_count": 22,
+			"created_at": "Mon May 30 15:54:52 +0000 2011",
+			"favourites_count": 30050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473753485153812484/wVnId-VZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473753485153812484/wVnId-VZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/307958828/1640196371",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15965,
+		"favorite_count": 148135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Forget fintechs. This is actual innovation: https://t.co/H5EY3QqIko"
+	},
+	{
 		"created_at": "Wed Dec 22 13:15:43 +0000 2021",
 		"id": 1473643412628906000,
 		"id_str": "1473643412628905991",
