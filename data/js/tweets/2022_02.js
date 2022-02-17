@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 21:41:34 +0000 2022",
+		"id": 1494064435736064000,
+		"id_str": "1494064435736064005",
+		"full_text": "Apropos: Wenn selbst deren Cookie-Notice nicht mehr der aktuellen Rechtslage entspricht (aus meiner Sicht - falsche Button-Labels und unterschiedliche Farben), erkennt man gut, was hier momentan schief läuft. https://t.co/MIfZuwCWPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MIfZuwCWPO",
+					"expanded_url": "https://twitter.com/DSBerater/status/1493478859651563523",
+					"display_url": "twitter.com/DSBerater/stat…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 134,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493478859651563500,
+		"quoted_status_id_str": "1493478859651563523",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MIfZuwCWPO",
+			"expanded": "https://twitter.com/DSBerater/status/1493478859651563523",
+			"display": "twitter.com/DSBerater/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 15 06:54:42 +0000 2022",
+			"id": 1493478859651563500,
+			"id_str": "1493478859651563523",
+			"full_text": "Heft 2/22: Edi von @PhilippQuiel; @_CookieBar zu MS365; Richter zu Whistleblowing; @TweefAnwalt zu BetroffenenR; @dataprotect_at zu GA; @laurenzstr zu den Guidelines der @CNIL_en; @privacylawGER/@ra_krone zu Cookiebot; Sorber zum BAG-Urteil; @ccmoeller zu Art 22 bei Auskunfteien https://t.co/yKMsqm9gmx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PhilippQuiel",
+						"name": "Philipp Quiel",
+						"id": 952479389509398500,
+						"id_str": "952479389509398529",
+						"indices": [
+							19,
+							32
+						]
+					},
+					{
+						"screen_name": "_CookieBar",
+						"name": "Olaf Koglin | PrivacyRightNow",
+						"id": 1858005656,
+						"id_str": "1858005656",
+						"indices": [
+							34,
+							45
+						]
+					},
+					{
+						"screen_name": "TweefAnwalt",
+						"name": "Paddy Gee | LL.M., CIPP/E 🟥🟨🟩",
+						"id": 2214821131,
+						"id_str": "2214821131",
+						"indices": [
+							83,
+							95
+						]
+					},
+					{
+						"screen_name": "dataprotect_at",
+						"name": "dataprotect",
+						"id": 815573160342986800,
+						"id_str": "815573160342986752",
+						"indices": [
+							113,
+							128
+						]
+					},
+					{
+						"screen_name": "laurenzstr",
+						"name": "Laurenz Strassemeyer",
+						"id": 186428913,
+						"id_str": "186428913",
+						"indices": [
+							136,
+							147
+						]
+					},
+					{
+						"screen_name": "CNIL_en",
+						"name": "CNIL_en",
+						"id": 2896133171,
+						"id_str": "2896133171",
+						"indices": [
+							170,
+							178
+						]
+					},
+					{
+						"screen_name": "privacylawGER",
+						"name": "01000111 01101000 01101111 01110011 01110100",
+						"id": 702403220388315100,
+						"id_str": "702403220388315137",
+						"indices": [
+							180,
+							194
+						]
+					},
+					{
+						"screen_name": "ra_krone",
+						"name": "Jannik Krone",
+						"id": 1900307287,
+						"id_str": "1900307287",
+						"indices": [
+							195,
+							204
+						]
+					},
+					{
+						"screen_name": "ccmoeller",
+						"name": "Carl Christoph Möller",
+						"id": 1433455780833935400,
+						"id_str": "1433455780833935363",
+						"indices": [
+							242,
+							252
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1493478854136062000,
+						"id_str": "1493478854136061956",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FLnnGuRWYAQ8933.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLnnGuRWYAQ8933.jpg",
+						"url": "https://t.co/yKMsqm9gmx",
+						"display_url": "pic.twitter.com/yKMsqm9gmx",
+						"expanded_url": "https://twitter.com/DSBerater/status/1493478859651563523/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 707,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 707,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493478854136062000,
+						"id_str": "1493478854136061956",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FLnnGuRWYAQ8933.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLnnGuRWYAQ8933.jpg",
+						"url": "https://t.co/yKMsqm9gmx",
+						"display_url": "pic.twitter.com/yKMsqm9gmx",
+						"expanded_url": "https://twitter.com/DSBerater/status/1493478859651563523/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 707,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 707,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1044266318269165600,
+				"id_str": "1044266318269165569",
+				"name": "DatenschutzBerater",
+				"screen_name": "DSBerater",
+				"location": "Frankfurt am Main, Deutschland",
+				"description": "Ihr zuverlässiger Partner für Datenschutz und Datensicherheit. Es twittert die Redaktion: @CarloPiltz @golland_privacy @PhilippQuiel @TilmanHerbrich @laurenzstr",
+				"url": "https://t.co/LGvNOEDnNd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LGvNOEDnNd",
+								"expanded_url": "https://www.datenschutz-berater.de",
+								"display_url": "datenschutz-berater.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1183,
+				"friends_count": 32,
+				"listed_count": 33,
+				"created_at": "Mon Sep 24 16:44:26 +0000 2018",
+				"favourites_count": 567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 349,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1086507359902580739/l9LTRJDx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086507359902580739/l9LTRJDx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044266318269165569/1563889593",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Apropos: Wenn selbst deren Cookie-Notice nicht mehr der aktuellen Rechtslage entspricht (aus meiner Sicht - falsche Button-Labels und unterschiedliche Farben), erkennt man gut, was hier momentan schief läuft. https://t.co/MIfZuwCWPO"
+	},
+	{
 		"created_at": "Tue Feb 15 18:18:40 +0000 2022",
 		"id": 1493650984765169700,
 		"id_str": "1493650984765169664",
