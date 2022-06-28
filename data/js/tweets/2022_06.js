@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 20:12:55 +0000 2022",
+		"id": 1541511186457366500,
+		"id_str": "1541514937297780736",
+		"full_text": "★ How to Temporarily Disable Face ID or Touch ID, and Require a Passcode to Unlock Your iPhone or iPad\nhttps://t.co/3gKQ0J4Dw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3gKQ0J4Dw1",
+					"expanded_url": "https://daringfireball.net/2022/06/require_a_passcode_to_unlock_your_iphone",
+					"display_url": "daringfireball.net/2022/06/requir…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://daringfireball.net/\" rel=\"nofollow\">DF Tootbot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10760422,
+			"id_str": "10760422",
+			"name": "Daring Fireball",
+			"screen_name": "daringfireball",
+			"location": "",
+			"description": "Entries from Daring Fireball. Feel free to comment with replies to posts.",
+			"url": "https://t.co/CCZahWrfCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCZahWrfCd",
+							"expanded_url": "https://daringfireball.net/",
+							"display_url": "daringfireball.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98722,
+			"friends_count": 1,
+			"listed_count": 6326,
+			"created_at": "Sat Dec 01 05:55:06 +0000 2007",
+			"favourites_count": 275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A525A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068658191041536001/q1bHVBDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068658191041536001/q1bHVBDc_normal.jpg",
+			"profile_link_color": "323232",
+			"profile_sidebar_border_color": "4A525A",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 158,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "★ How to Temporarily Disable Face ID or Touch ID, and Require a Passcode to Unlock Your iPhone or iPad\nhttps://t.co/3gKQ0J4Dw1"
+	},
+	{
 		"created_at": "Thu Jun 23 17:32:18 +0000 2022",
 		"id": 1540024962769199000,
 		"id_str": "1540024962769199106",
