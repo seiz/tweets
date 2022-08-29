@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 28 07:48:58 +0000 2022",
+		"id": 1563795763565662200,
+		"id_str": "1563795763565662210",
+		"full_text": "Da haben wir den Salat. Das sollte man stoppen. https://t.co/ITKaXN9JtX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ITKaXN9JtX",
+					"expanded_url": "https://twitter.com/rdrimmel/status/1563158073694310401",
+					"display_url": "twitter.com/rdrimmel/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/5UFfaMMOCQ",
+			"url": "https://t.co/y45Sl34avS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y45Sl34avS",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5UFfaMMOCQ",
+							"expanded_url": "https://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 132,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1563158073694310400,
+		"quoted_status_id_str": "1563158073694310401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ITKaXN9JtX",
+			"expanded": "https://twitter.com/rdrimmel/status/1563158073694310401",
+			"display": "twitter.com/rdrimmel/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 26 13:35:01 +0000 2022",
+			"id": 1563158073694310400,
+			"id_str": "1563158073694310401",
+			"full_text": "Ok, short thread about why this could be an ecological and cultural disaster. I'm on the beach, so this might be a bit slow.. https://t.co/35lseMGOHu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/35lseMGOHu",
+						"expanded_url": "https://twitter.com/rdrimmel/status/1563073845879541760",
+						"display_url": "twitter.com/rdrimmel/statu…",
+						"indices": [
+							126,
+							149
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2656302854,
+				"id_str": "2656302854",
+				"name": "Ronald Drimmel 🇺🇦",
+				"screen_name": "rdrimmel",
+				"location": "Osserv. Astrofisico di Torino",
+				"description": "Astronomer from #Montana, Mapper of the #MilkyWay, #DarkSky advocate, @IDADarkSky member, #GaiaMission Expert, fan of #scicomm, #MadeInItaly & #CitizenScience",
+				"url": "https://t.co/9nFG9PlxUq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9nFG9PlxUq",
+								"expanded_url": "https://www.linkedin.com/in/ronalddrimmel",
+								"display_url": "linkedin.com/in/ronalddrimm…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2019,
+				"friends_count": 374,
+				"listed_count": 91,
+				"created_at": "Fri Jul 18 09:07:43 +0000 2014",
+				"favourites_count": 37596,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16459,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1503106861419147269/iVRatmSd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1503106861419147269/iVRatmSd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2656302854/1531925388",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1563073845879541800,
+			"quoted_status_id_str": "1563073845879541760",
+			"quoted_status_permalink": {
+				"url": "https://t.co/35lseMGOHu",
+				"expanded": "https://twitter.com/rdrimmel/status/1563073845879541760",
+				"display": "twitter.com/rdrimmel/statu…"
+			},
+			"retweet_count": 1722,
+			"favorite_count": 4255,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Da haben wir den Salat. Das sollte man stoppen. https://t.co/ITKaXN9JtX"
+	},
+	{
 		"created_at": "Fri Aug 26 19:21:02 +0000 2022",
 		"id": 1563245153359253500,
 		"id_str": "1563245153359253504",
