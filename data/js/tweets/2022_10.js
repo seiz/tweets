@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 30 17:54:43 +0000 2022",
+		"id": 1586778642344181800,
+		"id_str": "1586778642344181760",
+		"full_text": "Leute. Diesem Mann gehört jetzt dieser Laden. Und dieser Mann will mehr für freie Meinungsäußerung tun. Findet den Fehler. https://t.co/PKvS0XMiay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKvS0XMiay",
+					"expanded_url": "https://twitter.com/Hoellenaufsicht/status/1586704300797054976",
+					"display_url": "twitter.com/Hoellenaufsich…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/Vp0vd3t5kT\n\nAlso on: @seiz@mastodon.social",
+			"url": "https://t.co/fn8BRhUGeZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fn8BRhUGeZ",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vp0vd3t5kT",
+							"expanded_url": "http://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 109,
+			"listed_count": 26,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1586704300797055000,
+		"quoted_status_id_str": "1586704300797054976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PKvS0XMiay",
+			"expanded": "https://twitter.com/Hoellenaufsicht/status/1586704300797054976",
+			"display": "twitter.com/Hoellenaufsich…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 30 12:59:19 +0000 2022",
+			"id": 1586704300797055000,
+			"id_str": "1586704300797054976",
+			"full_text": "Nach dem Attentat auf Paul Pelosi, dem Mann von Nancy Pelosi, teilt Elon Musk irgendeine völlig obskure Quelle, in der behauptet wird, P. Pelosi wäre betrunken gewesen, während er Streit mit einem Sexworker hatte. \n\nHoly fuck. HOLY FUCK. https://t.co/x6XvOwYGQF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1586704295168286700,
+						"id_str": "1586704295168286721",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/FgUbJlUXoAEyvbr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgUbJlUXoAEyvbr.jpg",
+						"url": "https://t.co/x6XvOwYGQF",
+						"display_url": "pic.twitter.com/x6XvOwYGQF",
+						"expanded_url": "https://twitter.com/Hoellenaufsicht/status/1586704300797054976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1791,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1586704295168286700,
+						"id_str": "1586704295168286721",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/FgUbJlUXoAEyvbr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgUbJlUXoAEyvbr.jpg",
+						"url": "https://t.co/x6XvOwYGQF",
+						"display_url": "pic.twitter.com/x6XvOwYGQF",
+						"expanded_url": "https://twitter.com/Hoellenaufsicht/status/1586704300797054976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1791,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1586704295155622000,
+						"id_str": "1586704295155621888",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/FgUbJlRWYAAGSrR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgUbJlRWYAAGSrR.jpg",
+						"url": "https://t.co/x6XvOwYGQF",
+						"display_url": "pic.twitter.com/x6XvOwYGQF",
+						"expanded_url": "https://twitter.com/Hoellenaufsicht/status/1586704300797054976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1170,
+								"h": 1418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 990,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 561,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 280569249,
+				"id_str": "280569249",
+				"name": "Mareile",
+				"screen_name": "Hoellenaufsicht",
+				"location": "Hannover/Berlin ",
+				"description": "Laut BILD “Ex-FDP-Influencerin” // leitet Digitale Kommunikation @polisphere // Meine Meinungen sind von mir und so gemeint",
+				"url": "https://t.co/1Z0lKZLyOh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1Z0lKZLyOh",
+								"expanded_url": "http://polisphere.eu",
+								"display_url": "polisphere.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64083,
+				"friends_count": 1035,
+				"listed_count": 300,
+				"created_at": "Mon Apr 11 15:55:26 +0000 2011",
+				"favourites_count": 254225,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 73346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1524490891683053568/-aR486EN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524490891683053568/-aR486EN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/280569249/1605787858",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 460,
+			"favorite_count": 4053,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Leute. Diesem Mann gehört jetzt dieser Laden. Und dieser Mann will mehr für freie Meinungsäußerung tun. Findet den Fehler. https://t.co/PKvS0XMiay"
+	},
+	{
 		"created_at": "Sat Oct 29 19:43:33 +0000 2022",
 		"id": 1586443639735156700,
 		"id_str": "1586443639735156737",
