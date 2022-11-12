@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 15:39:15 +0000 2022",
+		"id": 1591093202735739000,
+		"id_str": "1591093202735738881",
+		"full_text": "The best MacOS-client currently is IMHO, a dedicated Mastodon Browser (i.e. via https://t.co/ZrWdjWL4nH) which loads the Instances Web-Interface.\n\nWhat do you use on MacOS? https://t.co/8HmapJr1JE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZrWdjWL4nH",
+					"expanded_url": "http://fluidapp.com",
+					"display_url": "fluidapp.com",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1591093188135116800,
+					"id_str": "1591093188135116801",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSy0xtWYAEp7TO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSy0xtWYAEp7TO.jpg",
+					"url": "https://t.co/8HmapJr1JE",
+					"display_url": "pic.twitter.com/8HmapJr1JE",
+					"expanded_url": "https://twitter.com/seiz/status/1591093202735738881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 984,
+							"h": 1644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1591093188135116800,
+					"id_str": "1591093188135116801",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FhSy0xtWYAEp7TO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhSy0xtWYAEp7TO.jpg",
+					"url": "https://t.co/8HmapJr1JE",
+					"display_url": "pic.twitter.com/8HmapJr1JE",
+					"expanded_url": "https://twitter.com/seiz/status/1591093202735738881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 984,
+							"h": 1644,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617963,
+			"id_str": "617963",
+			"name": "zıəs uɐɟəʇs",
+			"screen_name": "seiz",
+			"location": "48.70516,9.651704",
+			"description": "Designer. \nPresumably still alive.\nhttps://t.co/Vp0vd3t5kT\n\nAlso on: @seiz@mastodon.social",
+			"url": "https://t.co/fn8BRhUGeZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fn8BRhUGeZ",
+							"expanded_url": "http://meckr.imd.net",
+							"display_url": "meckr.imd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vp0vd3t5kT",
+							"expanded_url": "http://stefanseiz.com",
+							"display_url": "stefanseiz.com",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 172,
+			"friends_count": 107,
+			"listed_count": 25,
+			"created_at": "Tue Jan 09 13:46:12 +0000 2007",
+			"favourites_count": 799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956583216860811264/BRSgKHuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617963/1437646424",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best MacOS-client currently is IMHO, a dedicated Mastodon Browser (i.e. via https://t.co/ZrWdjWL4nH) which loads the Instances Web-Interface.\n\nWhat do you use on MacOS? https://t.co/8HmapJr1JE"
+	},
+	{
 		"created_at": "Thu Nov 10 14:45:20 +0000 2022",
 		"id": 1590717246892302300,
 		"id_str": "1590717246892302338",
